@@ -17,7 +17,7 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: 'Oxford CCAU'
+    org_name: 'Oxford CCAI'
     description: 'Building better AI for children'
     twitter: 'oxfordccai'
   analytics:
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} OxfordCCAI. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
