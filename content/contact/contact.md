@@ -15,8 +15,8 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: oxfordccai
-  phone: 888 888 88 88
+  # email: oxfordccai
+  # phone: 888 888 88 88
   # address:
   #   street: 450 Serra Mall
   #   city: Stanford
@@ -53,4 +53,6 @@ content:
 design:
   columns: '1'
 ---
+
+For any further information about our research, please DM us on @oxfordccai or email the researchers in the team.
 
