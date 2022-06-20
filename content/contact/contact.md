@@ -17,13 +17,13 @@ content:
 
   # email: oxfordccai
   # phone: 888 888 88 88
-  # address:
-  #   street: 450 Serra Mall
-  #   city: Stanford
-  #   region: CA
-  #   postcode: '94305'
-  #   country: United States
-  #   country_code: US
+  address:
+    street: Department of Computer Science
+    city: Oxford
+    region: Oxfordshire
+    postcode: 'OX1 3QD'
+    country: United Kingdom
+    country_code: UK
   # coordinates:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'
