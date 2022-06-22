@@ -33,7 +33,7 @@ featured: true
 links:
   - name: Publisher Link
     url: https://dl.acm.org/doi/10.1145/3491102.3502057
-url_pdf: https://ora.ox.ac.uk/catalog/uuid:9a4b026c-2ca0-4ebf-a869-0b3d03a7efe3/download_file?file_format=application%2Fpdf&safe_filename=CHI_Kids_Camera_Ready_New_Template_Updated_Dec.pdf
+url_pdf: https://ora.ox.ac.uk/objects/uuid:98022d77-3b32-4f06-a4a7-a624aa564b33/download_file?file_format=&safe_filename=Wang_et_al_2022_informing_age-appropriate_ai.pdf&type_of_work=Conference+item
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
