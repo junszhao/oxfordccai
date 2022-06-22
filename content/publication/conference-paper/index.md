@@ -1,5 +1,5 @@
 ---
-title: 'I make up a silly name: Understanding Childrens Perception of Privacy Risks Online'
+title: '&rsquo;I make up a silly name&rsquo;: Understanding Children&rsquo;s Perception of Privacy Risks Online'
 authors:
   - Jun Zhao
   - Ge Wang
@@ -34,16 +34,16 @@ tags:
 featured: true
 
 links:
-  - name: Custom Link
+  - name: doi
     url: https://dl.acm.org/doi/10.1145/3290605.3300336
 url_pdf: https://ora.ox.ac.uk/catalog/uuid:9a4b026c-2ca0-4ebf-a869-0b3d03a7efe3/download_file?file_format=application%2Fpdf&safe_filename=CHI_Kids_Camera_Ready_New_Template_Updated_Dec.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_code: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -65,7 +65,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides:
+# slides:
 ---
 
 {{% callout note %}}
