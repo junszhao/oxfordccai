@@ -1,12 +1,14 @@
 ---
-title: 'An example preprint / working paper'
+title: 'Written Evidence Submitted by Oxford University Child-Centred AI'
 authors:
-  - admin
-date: '2019-04-07T00:00:00Z'
+  authors:
+  - Jun Zhao
+  - Ge Wang
+date: '2022-06-08T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-06-08T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,19 +20,14 @@ publication_types: ['3']
 publication: ''
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: This written evidence is submitted by Dr Jun Zhao (Senior research fellow) and Ms Ge Wang (Final year DPhil student) on behalf of Oxford University’s Child-Centred AI initiative. We welcome the considerations urged by the Online Safety Bill committee and we would like to add some additional comments in this response as we thought it’s critical to strengthen the requirements for more transparency and more support for users’ agency, and a separation between the content vs. system harms. 
 
 tags:
   - Source Themes
 featured: false
 
 links:
-  - name: Custom Link
-    url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://koala.web.ox.ac.uk/sites/default/files/koala/documents/media/oxccai_children.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
@@ -42,7 +39,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: "Response to UK Government's Call for Evidence for Online Safety Bill"
   focal_point: ''
   preview_only: false
 
@@ -52,14 +49,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - internal-project
+  - oxfordccai
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides:
+# slides:
 ---
 
 Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).

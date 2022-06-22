@@ -45,7 +45,7 @@ url_pdf: https://ora.ox.ac.uk/objects/uuid:98022d77-3b32-4f06-a4a7-a624aa564b33/
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Informing Age-Appropriate AI'
   focal_point: ''
   preview_only: false
 

@@ -42,7 +42,7 @@ url_pdf: https://ora.ox.ac.uk/objects/uuid:da71019d-157c-47de-a310-7e0340599e22/
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'The Design Space of Parental Control Apps'
   focal_point: ''
   preview_only: false
 

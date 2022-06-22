@@ -48,7 +48,7 @@ url_pdf: https://ora.ox.ac.uk/catalog/uuid:9a4b026c-2ca0-4ebf-a869-0b3d03a7efe3/
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Understanding Children's Perception of Privacy Risks Online'
   focal_point: ''
   preview_only: false
 
