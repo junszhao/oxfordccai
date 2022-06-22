@@ -1,7 +1,6 @@
 ---
 title: 'Written Evidence Submitted by Oxford University Child-Centred AI'
 authors:
-  authors:
   - Jun Zhao
   - Ge Wang
 date: '2022-06-08T00:00:00Z'
