@@ -1,5 +1,5 @@
 ---
-title: '&rsquo;I make up a silly name&rsquo;: Understanding Children&rsquo;s Perception of Privacy Risks Online'
+title: "'I make up a silly name': Understanding Children's Perception of Privacy Risks Online"
 authors:
   - Jun Zhao
   - Ge Wang
@@ -34,7 +34,7 @@ tags:
 featured: true
 
 links:
-  - name: doi
+  - name: Publisher Link
     url: https://dl.acm.org/doi/10.1145/3290605.3300336
 url_pdf: https://ora.ox.ac.uk/catalog/uuid:9a4b026c-2ca0-4ebf-a869-0b3d03a7efe3/download_file?file_format=application%2Fpdf&safe_filename=CHI_Kids_Camera_Ready_New_Template_Updated_Dec.pdf
 # url_code: '#'
