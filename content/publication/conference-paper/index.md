@@ -1,13 +1,18 @@
 ---
-title: 'An example conference paper'
+title: 'I make up a silly name' Understanding Children's Perception of Privacy Risks Online'
 authors:
-  - admin
-  - Robert Ford
-date: '2013-07-01T00:00:00Z'
-doi: ''
+  - Zhao, Jun
+  - Wang, Ge
+  - Dally, Carys
+  - Slovak, Petr
+  - Edbrooke-Childs, Julian
+  - Van Kleek, Max
+  - Shadbolt, Nigel
+date: '2019-07-01T00:00:00Z'
+doi: '10.1145/3290605.3300336'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2019-05-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,13 +21,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems*
+publication_short: In *CHI'19*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Children under 11 are often regarded as too young to comprehend the implications of online privacy. Perhaps as a result, little research has focused on younger kids' risk recognition and coping. Such knowledge is, however, critical for designing efficient safeguarding mechanisms for this age group. Through 12 focus group studies with 29 children aged 6-10 from UK schools, we examined how children described privacy risks related to their use of tablet computers and what information was used by them to identify threats. We found that children could identify and articulate certain privacy risks well, such as information oversharing or revealing real identities online; however, they had less awareness with respect to other risks, such as online tracking or game promotions. Our findings offer promising directions for supporting children's awareness of cyber risks and the ability to protect themselves online.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# # Summary. An optional shortened abstract.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - Source Themes
@@ -30,8 +35,8 @@ featured: true
 
 links:
   - name: Custom Link
-    url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+    url: https://dl.acm.org/doi/10.1145/3290605.3300336
+url_pdf: https://ora.ox.ac.uk/catalog/uuid:9a4b026c-2ca0-4ebf-a869-0b3d03a7efe3/download_file?file_format=application%2Fpdf&safe_filename=CHI_Kids_Camera_Ready_New_Template_Updated_Dec.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
@@ -53,7 +58,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - internal-project
+  - KOALA
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -67,4 +72,4 @@ slides:
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+<!-- Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). -->
