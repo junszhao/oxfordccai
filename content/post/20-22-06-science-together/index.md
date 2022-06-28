@@ -3,6 +3,8 @@ title: Oxccai is featured in Science Together
 date: 2022-06-07
 image:
   focal_point: 'top'
+authors:
+  - Jun Zhao
 ---
 
 
