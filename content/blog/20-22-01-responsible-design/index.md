@@ -3,6 +3,8 @@ title: Responsible Design for Children
 date: 2021-10-01
 image:
   focal_point: 'top'
+authors:
+  - Jun Zhao
 ---
 
 Two incidents from last week - one being the denouncement of "[Instagram kids](https://twitter.com/junszhao/status/1442775067545452552)", followed by the announcement of "[Facebook's mining of children's data](https://twitter.com/1Br0wn/status/1443456050615697410)"" - prompted us to reflect on some design considerations that could have been paid more attention by the data-driven industry. 
