@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night:
   font: native
-  font_size: XS
+  font_size: S
 
 # SEO
 
@@ -17,7 +17,7 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: 'Oxford CCAI'
+    org_name: 'Oxford Child-Centred AI (OxfordCCAI)'
     description: 'Building better AI for children'
     twitter: 'oxfordccai'
   analytics:
