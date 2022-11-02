@@ -1,5 +1,5 @@
 ---
-title: Oxccai is featured in Science Together
+title: We are featured in Oxford `Science Together'
 date: 2022-06-07
 image:
   focal_point: 'top'

@@ -1,5 +1,5 @@
 ---
-title: Oxccai publication wins CHI'2022 Honourable Mention
+title: Our publication wins CHI'2022 Honourable Mention
 date: 2022-03-07
 image:
   focal_point: 'top'

@@ -2,7 +2,7 @@
 title: Oxccai presents at IDC'22
 date: 2022-06-29
 image:
-  focal_point: 'right'
+  focal_point: 'top'
 authors:
   - Jun Zhao
 ---

@@ -1,8 +1,8 @@
 ---
-title: Oxccai has a new paper accepted at CSCW'22
+title: A new paper accepted at CSCW'22
 date: 2022-05-26
 image:
-  focal_point: 'right'
+  focal_point: 'top'
 authors:
   - Jun Zhao
 ---

@@ -6,7 +6,7 @@ title: Jun Zhao
 superuser: true
 
 # Role/position
-role: Senior Researcher
+role: Founder of OxfordCCAI
 
 # Organizations/Affiliations
 organizations:
