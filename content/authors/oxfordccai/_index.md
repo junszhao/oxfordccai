@@ -50,14 +50,14 @@ Oxford Child-Centred AI (Oxford CCAI) assembles a series of research activities 
 
 Currently **OxfordCCAI** focuses on the following research themes:
 
-* Creating a new paradigm of digital parenting in the AI of age, see also [KOALA Hero](https://koala.web.ox.ac.uk):
+* Creating a new paradigm of digital parenting in the AI of age (see also [KOALA Hero](https://koala.web.ox.ac.uk)):
   * What existing technological supports are needed by parents and children
-  * How a *co-learning* and *collaborative* approach could be applied for bettern digital parenting.
+  * How a **co-learning** and **collaborative** approach could be applied for bettern digital parenting
 
-* Identifying age-appropriate AI algorithmic design patterns: 
-  * How do children [perceive the process of dataficiation] (https://www.tiffanygewang.com/publication/paper-placeholder-8/) in existing recommendation platforms, such as YouTube, Netflix or Tiktok 
-  * How to design **new and ethical** AI algorithmic systems, with more support for transparency, users' control and their digital autonomy.
+* Identifying age-appropriate AI algorithmic design patterns (see also [Oxford EWADA Project](http://ewada.ox.ac.uk))
+  * How children [perceive the process of dataficiation](https://www.tiffanygewang.com/publication/paper-placeholder-8/) in existing recommendation platforms, such as YouTube, Netflix or Tiktok 
+  * How to design **new and ethical** AI algorithmic systems, with more transparency, users' control and digital autonomy
 
 * Identifying ways to support developers to build age-appropriate AI applications: 
-  * What are [existing practices of building privacy-friendly apps for children]() by [app developers for children
-  * What tools are needed to better support them
+  * What [existing practices]() are adopted by app developers for children for building privacy-friendly apps for children
+  * What **tools** are needed to better support them
