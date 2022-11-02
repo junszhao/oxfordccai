@@ -50,14 +50,16 @@ Oxford Child-Centred AI (Oxford CCAI) assembles a series of research activities 
 
 Currently **OxfordCCAI** focuses on the following research themes:
 
-* Creating a new paradigm of digital parenting in the AI of age (see also [KOALA Hero](https://koala.web.ox.ac.uk)):
-  * What existing technological supports are needed by parents and children
-  * How a **co-learning** and **collaborative** approach could be applied for bettern digital parenting
+## A new paradigm of digital parenting in the AI of age 
+* What existing technological supports are needed by parents and children
+* How a **co-learning** and **collaborative** approach could be applied for bettern digital parenting
+* see also [KOALA Hero](https://koala.web.ox.ac.uk)
 
-* Identifying age-appropriate AI algorithmic design patterns (see also [Oxford EWADA Project](http://ewada.ox.ac.uk))
-  * How children [perceive dataficiation](https://www.tiffanygewang.com/publication/paper-placeholder-8/) in existing recommendation platforms (e.g. YouTube or Tiktok)
-  * How to design **new and ethical** AI algorithmic systems, with more transparency, users' control and digital autonomy
+## Age-appropriate AI algorithmic design patterns
+* How children [perceive dataficiation](https://www.tiffanygewang.com/publication/paper-placeholder-8/) in existing recommendation platforms (e.g. YouTube or Tiktok)
+* How to design **new and ethical** AI algorithmic systems, with more transparency, users' control and digital autonomy
+* see also [Oxford EWADA Project](http://ewada.ox.ac.uk)
 
-* Identifying ways to support developers to build age-appropriate AI applications: 
-  * What [existing practices]() are adopted by developers for building privacy-friendly apps for children
-  * What **tools** are needed to better support the developers
+## Support developers to build age-appropriate AI applications
+* What [existing practices]() are adopted by developers for building privacy-friendly apps for children
+* What **tools** are needed to better support the developers
