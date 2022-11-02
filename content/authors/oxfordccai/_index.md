@@ -50,6 +50,14 @@ Oxford Child-Centred AI (Oxford CCAI) assembles a series of research activities 
 
 Currently **OxfordCCAI** focuses on the following research themes:
 
-* Creating a new paradigm of digital parenting in the AI of age: This is built on our existing sister project [KOALA Hero](https://koala.web.ox.ac.uk), a continuous research effort exploring 1) what existing technological supports are needed by parents and children, and 2) how a *co-learning* and *collaborative* approach could be applied for bettern digital parenting.
-* Identifying age-appropriate AI algorithmic design patterns: We [engage widely with young children (aged 7-11) and older children (11-13)](https://www.tiffanygewang.com/publication/paper-placeholder-8/) to understand how they perceive the process of dataficiation in existing recommendation platforms, such as YouTube, Netflix or Tiktok. We design **new and ethical** AI algorithmic systems, with more support for transparency, users' control and their digital autonomy.
-* Identifying ways to support developers to build age-appropriate AI applications: We (engage widely with app developers for children)[] to understand their existing practices of building privacy-friendly apps for children, and how they would like to be supported. 
+* Creating a new paradigm of digital parenting in the AI of age, see also [KOALA Hero](https://koala.web.ox.ac.uk):
+  * What existing technological supports are needed by parents and children
+  * How a *co-learning* and *collaborative* approach could be applied for bettern digital parenting.
+
+* Identifying age-appropriate AI algorithmic design patterns: 
+  * How do children [perceive the process of dataficiation] (https://www.tiffanygewang.com/publication/paper-placeholder-8/) in existing recommendation platforms, such as YouTube, Netflix or Tiktok 
+  * How to design **new and ethical** AI algorithmic systems, with more support for transparency, users' control and their digital autonomy.
+
+* Identifying ways to support developers to build age-appropriate AI applications: 
+  * What are [existing practices of building privacy-friendly apps for children]() by [app developers for children
+  * What tools are needed to better support them
