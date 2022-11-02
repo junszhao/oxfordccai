@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio:  My research focuses on investigating the impact of algorithm-based decision makings upon our everyday life, especially for families and young children. For this, I take a human-centric approach, focusing on understanding real users' needs, in order to design technologies that can make a real impact. 
+bio: My research focuses on investigating the impact of algorithm-based decision makings upon our everyday life, especially for families and young children. For this, I take a human-centric approach, focusing on understanding real users' needs, in order to design technologies that can make a real impact. 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,3 +44,5 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
+
+My research focuses on investigating the impact of algorithm-based decision makings upon our everyday life, especially for families and young children. For this, I take a human-centric approach, focusing on understanding real users' needs, in order to design technologies that can make a real impact. 

@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio:  I’m a Dphil student in the Department of Computer Science at University of Oxford, the Human Centred Computing group. My Dphil is supervised by Professor Sir Nigel Shadbolt, Dr. Jun Zhao, and receive kind support from Professor Max Van Kleek and Professor Reuben Binns. 
+bio:  I'm a Dphil student in the Department of Computer Science at University of Oxford, the Human Centred Computing group. My Dphil is supervised by Professor Sir Nigel Shadbolt, Dr. Jun Zhao, and receive kind support from Professor Max Van Kleek and Professor Reuben Binns. 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,3 +44,5 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
+
+I'm a Dphil student in the Department of Computer Science at University of Oxford, the Human Centred Computing group. My Dphil is supervised by Professor Sir Nigel Shadbolt, Dr. Jun Zhao, and receive kind support from Professor Max Van Kleek and Professor Reuben Binns. 
