@@ -7,8 +7,10 @@ hero_media: welcome.jpg
 widget_id: recent-posts
 design:
   columns: "1"
-  css_style: null
-  css_class: null
+  css_style: 'article-style'
+  css_class: 'article-style'
+  font: native
+  font_size: s
 ---
 Oxford Child-Centred AI (Oxford CCAI) assembles a series of research activities related to designing better AI for children, which is part of [Human-Centred Computing](http://hcc.cs.ox.ac.uk/) at the [Department of Computer Science](http://www.cs.ox.ac.uk/) at the University of Oxford.
 
