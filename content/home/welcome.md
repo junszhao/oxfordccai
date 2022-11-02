@@ -1,14 +1,12 @@
 ---
-widget: hero
+widget: about
 headless: true
 weight: 10
 title: ""
-hero_media: welcome.jpg
+image: welcome.jpg
 widget_id: recent-posts
 design:
-  columns: "1"
-  css_style: 'article-style'
-  css_class: 'article-style'
+  columns: "2"
   font: minimal
   font_size: xs
 ---
