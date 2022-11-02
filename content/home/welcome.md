@@ -1,5 +1,5 @@
 ---
-widget: hero
+widget: pages
 headless: true
 weight: 10
 title: ""
