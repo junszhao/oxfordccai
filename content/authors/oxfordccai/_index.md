@@ -55,9 +55,9 @@ Currently **OxfordCCAI** focuses on the following research themes:
   * How a **co-learning** and **collaborative** approach could be applied for bettern digital parenting
 
 * Identifying age-appropriate AI algorithmic design patterns (see also [Oxford EWADA Project](http://ewada.ox.ac.uk))
-  * How children [perceive the process of dataficiation](https://www.tiffanygewang.com/publication/paper-placeholder-8/) in existing recommendation platforms, such as YouTube, Netflix or Tiktok 
+  * How children [perceive dataficiation](https://www.tiffanygewang.com/publication/paper-placeholder-8/) in existing recommendation platforms (e.g. YouTube or Tiktok)
   * How to design **new and ethical** AI algorithmic systems, with more transparency, users' control and digital autonomy
 
 * Identifying ways to support developers to build age-appropriate AI applications: 
-  * What [existing practices]() are adopted by app developers for children for building privacy-friendly apps for children
-  * What **tools** are needed to better support them
+  * What [existing practices]() are adopted by developers for building privacy-friendly apps for children
+  * What **tools** are needed to better support the developers
