@@ -5,7 +5,7 @@ weight: 10
 title: ""
 # image: welcome.jpg
 widget_id: recent-posts
-authors: 'OxfordCCAI'
+authors: 'oxfordccai'
 # design:
 #   columns: "1"
 #   font: minimal
