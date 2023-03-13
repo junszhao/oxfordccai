@@ -1,5 +1,5 @@
 ---
-title: We are featured in Oxford `Science Together'
+title: Book chapter on a new data architecture for education data
 date: 2022-06-07
 image:
   focal_point: 'top'
