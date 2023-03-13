@@ -1,6 +1,6 @@
 ---
 title: Book chapter on a new data architecture for education data
-date: 2022-06-07
+date: 2022-11-21
 image:
   focal_point: 'top'
 authors:
