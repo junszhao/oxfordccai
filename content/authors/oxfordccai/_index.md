@@ -27,7 +27,7 @@ social:
     link: https://twitter.com/oxfordccai
   - icon: github
     icon_pack: fab
-    link: https://github.com/junszhao/oxccai
+    link: https://github.com/junszhao/oxfordccai
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -51,11 +51,12 @@ Oxford Child-Centred AI (Oxford CCAI) assembles a series of research activities 
 Currently **OxfordCCAI** focuses on the following research themes:
 
 ## A new paradigm of digital parenting in the AI of age 
-* What existing technological supports are needed by parents and children
+* What existing [technological supports are needed by parents and children](https://oxfordccai.netlify.app/publication/journal-article-2021/)
 * How a **co-learning** and **collaborative** approach could be applied for bettern digital parenting
 * see also [KOALA Hero](https://koala.web.ox.ac.uk)
 
 ## Age-appropriate AI algorithmic design patterns
+* What [design practices are applied in current AI systems for children](https://oxfordccai.netlify.app/publication/conference-paper-2022/)
 * How children [perceive dataficiation](https://www.tiffanygewang.com/publication/paper-placeholder-8/) in existing recommendation platforms (e.g. YouTube or Tiktok)
 * How to design **new and ethical** AI algorithmic systems, with more transparency, users' control and digital autonomy
 * see also [Oxford EWADA Project](http://ewada.ox.ac.uk)
