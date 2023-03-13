@@ -1,6 +1,6 @@
 ---
 title: Responsible Design for Children
-date: 2021-10-01
+date: 2022-10-01
 image:
   focal_point: 'top'
 authors:
