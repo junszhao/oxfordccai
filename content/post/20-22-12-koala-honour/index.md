@@ -1,5 +1,5 @@
 ---
-title: We are featured in Oxford `Science Together'
+title: Two prestigious awards at CSCW'2023
 date: 2022-12-07
 image:
   focal_point: 'top'
@@ -20,4 +20,4 @@ Co-authored by Tiffany Ge Wang, Jun Zhao, Max Van Kleek and Sir Nigel Shadbolt, 
 
  
 
-Please visit the paper for more information: [https://bit.ly/3VB8uyC](https://bit.ly/3VB8uyC).
+Please visit the paper for more information: [https://bit.ly/3VB8uyC](https://ora.ox.ac.uk/objects/uuid:58f0c9eb-b0ad-404d-9741-70d553f011f2).

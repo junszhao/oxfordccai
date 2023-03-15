@@ -21,4 +21,4 @@ This new code includes 5 principles:
 - Sustainability in a child-specific context should refer to supporting the long-term development of children, and in a way that considers the important aspect of meeting the developmental needs of children.
 The full paper received Honourable Mention at ACM Conference on Human Factors in Computing Systems in April 2022.
 
-[short video](https://www.youtube.com/watch?v=dODW1SoJH4o)[full presentation recording](https://www.youtube.com/watch?v=-zqKgaaiXS8)[[pdf](https://www.tiffanygewang.com/publication/paper-placeholder-1/paper-placeholder-1.pdf)
+[short video](https://www.youtube.com/watch?v=dODW1SoJH4o)[full presentation recording](https://www.youtube.com/watch?v=-zqKgaaiXS8)[[pdf]](https://ora.ox.ac.uk/objects/uuid:98022d77-3b32-4f06-a4a7-a624aa564b33/files/s3484zh77q)
