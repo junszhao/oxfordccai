@@ -6,7 +6,7 @@ authors:
   - Max Van Kleek
   - Nigel Shadbolt
 date: '2023-04-01T00:00:00Z'
-doi: ''
+doi: '10.1145/3491102.3502057/1'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-04-01T00:00:00Z'
