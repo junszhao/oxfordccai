@@ -6,7 +6,7 @@ title: Jun Zhao
 superuser: true
 
 # Role/position
-role: Founder of OxfordCCAI
+role: Founder of OxfordCCAI Design Lab
 
 # Organizations/Affiliations
 organizations:

@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: 'Oxford Child-Centred AI (OxfordCCAI)'
-    description: 'Building better AI for children'
+    org_name: 'Oxford Child-Centred AI (OxfordCCAI) Design Lab'
+    description: 'Building better AI for and with children'
     twitter: 'oxfordccai'
   analytics:
     google_analytics: ''
