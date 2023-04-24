@@ -16,7 +16,7 @@ One reviewer for our co-design paper with children ('Treat me as your friend, no
 
 Our systematic review paper about digital autonomy for children ('12 Ways to Empower') was commented on "The literature review was thorough, does a good job highlighting the efficacy of previous research on children's digital autonomy".
 
-We thank all the reviewers for their valuable comments that helped ud to refelect our research and improve our presentation further.
+We thank all the reviewers for their valuable comments that helped us to refelect our research and improve our presentation further.
 
 
 
