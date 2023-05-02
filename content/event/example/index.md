@@ -1,10 +1,10 @@
 ---
-title: Example Event
+title: AI and Ethics Workshop for Children
 
-event: Wowchemy Conference
+event: AI and Ethics Workshop for Children
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: Oxfordshire
 address:
   street: 450 Serra Mall
   city: Stanford

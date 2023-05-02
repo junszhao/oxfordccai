@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Oxford Child-Centred AI (Oxford CCAI) Design Lab assembles a series of research activities related to designing better AI for and with children, which is part of [Human-Centred Computing](http://hcc.cs.ox.ac.uk/) at the [Department of Computer Science](http://www.cs.ox.ac.uk/) at the University of Oxford. 
+bio:  Oxford Child-Centred AI (Oxford CCAI) Design Lab assembles a series of research activities related to designing better AI for and with children. It is part of [Human-Centred Computing](http://hcc.cs.ox.ac.uk/) at the [Department of Computer Science](http://www.cs.ox.ac.uk/) at the University of Oxford. 
 
 
 # Social/Academic Networking
@@ -46,7 +46,7 @@ user_groups:
   - Researchers
 ---
 
-Oxford Child-Centred AI (Oxford CCAI) Design Lab assembles a series of research activities related to designing better AI for children, which is part of [Human-Centred Computing](http://hcc.cs.ox.ac.uk/) at the [Department of Computer Science](http://www.cs.ox.ac.uk/) at the University of Oxford. 
+Oxford Child-Centred AI (Oxford CCAI) Design Lab assembles a series of research activities related to designing better AI for children. It is part of [Human-Centred Computing](http://hcc.cs.ox.ac.uk/) at the [Department of Computer Science](http://www.cs.ox.ac.uk/) at the University of Oxford. 
 
 Currently **OxfordCCAI** focuses on the following research themes:
 
