@@ -57,4 +57,4 @@ There are three take-home messages for you:
 
 ## Supplementary materials
 We also offer a game for children to further explore AI and algorithms. In this game, children can learn how AI and machine learning can be used to address global problems.
-* [AI for Oceans: ](https://studio.code.org/s/oceans/lessons/1/levels/1)
+* [AI for Oceans](https://studio.code.org/s/oceans/lessons/1/levels/1)
