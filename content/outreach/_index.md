@@ -17,7 +17,7 @@ The club runs over 4 weeks, and in each week, researchers from the lab will use 
 
 
 * Week 1: we will talk about AI and help children understand how AI is based on data
-* Wekk 2: we will help children evaluate the values that drive the design of AI
+* Week 2: we will help children evaluate the values that drive the design of AI
 * Week 3 & 4: we will work with children to (conceptually) design their own good AI platforms.
 
 
