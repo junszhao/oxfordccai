@@ -55,5 +55,6 @@ There are three take-home messages for you:
 * AI-based apps like FamilyFun can learn from the data we provide and make personalised recommendations for us.
 * AI has pros and cons. The better the data you provide, the better AI will learn, but they are still limited.
 
-
-
+## Supplementary materials
+We also offer a game for children to further explore AI and algorithms. In this game, children can learn how AI and machine learning can be used to address global problems.
+*[AI for Oceans: ](https://studio.code.org/s/oceans/lessons/1/levels/1)
