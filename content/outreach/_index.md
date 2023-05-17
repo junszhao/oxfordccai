@@ -80,13 +80,13 @@ Can anyone please recall what we have experienced and learn from this family?
 
 * Different Values: Role-playing game (Group + Whole class: ~60 min)
 
-First, we introduce the roles and use [value reflection card] to lead the children to discuss people’s values. 
+First, we introduce the roles and use value cards to lead the children to discuss people’s values. 
 
-Children role-play, discuss the data to be collected by the system (with [data reflection card]), and place the data cards into three piles on the [data worksheet]. 
+Children role-play, discuss the data to be collected by the system (with data cards), and place the data cards into three piles on the data worksheet. 
 
-Then, the group exchanges the data cards with the other group, who will role-play as an AI system and assess whether sufficient data has been collected for their algorithms to function (with a data worksheet). 
+Then, the group exchanges the data cards with the other group, who will role-play as an AI system and assess whether sufficient data has been collected for their algorithms to function. 
 
-Children continue to role-play as AI systems to make inferences and recommend ‘place of interests’ based on the data, and clarify the value/motivations of their recommendations on [AI worksheet].
+Children continue to role-play as AI systems to make inferences and recommend ‘place of interests’ based on the data, and clarify the value/motivations of their recommendations on AI worksheet.
 
 Children exchange the inference results and ask the original group to role-play as families to give feedback and reflect using the ‘value matrix’.
 
