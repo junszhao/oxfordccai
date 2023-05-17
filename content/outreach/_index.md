@@ -58,3 +58,43 @@ There are three take-home messages for you:
 ## Supplementary materials
 We also offer a game for children to further explore AI and algorithms. In this game, children can learn how AI and machine learning can be used to address global problems.
 * [AI for Oceans](https://studio.code.org/s/oceans/lessons/1/levels/1)
+
+
+# Week 2: Discover different values in AI!
+
+## Expected learning outcomes for us:
+* Understand students’ value on AI.
+* Help students understand three steps of AI/datafication (i.e. data collection, datafying, and influence and feedback)
+* Help students understand different values AI may contain.
+* Use a value matrix to show students how the values of different stakeholders are considered in an AI system design process.
+
+## Expected learning outcomes for children:
+* Understanding different values AI may contain.
+* Be aware of how the values of different stakeholders are considered in an AI system design process.
+* Analyse AI’s recommendation more critically.
+
+## Activity planning
+* Warm-up (Verbal discussions / Whole class: ~10 min)
+
+Can anyone please recall what we have experienced and learn from this family?
+
+* Different Values: Role-playing game (Group + Whole class: ~60 min)
+
+First, we introduce the roles and use [value reflection card] to lead the children to discuss people’s values. 
+
+Children role-play, discuss the data to be collected by the system (with [data reflection card]), and place the data cards into three piles on the [data worksheet]. 
+
+Then, the group exchanges the data cards with the other group, who will role-play as an AI system and assess whether sufficient data has been collected for their algorithms to function (with a data worksheet). 
+
+Children continue to role-play as AI systems to make inferences and recommend ‘place of interests’ based on the data, and clarify the value/motivations of their recommendations on [AI worksheet].
+
+Children exchange the inference results and ask the original group to role-play as families to give feedback and reflect using the ‘value matrix’.
+
+In the end, children discuss the whole class and compare their results.
+
+## Take home message
+In the end of the session, researchers summarise the key discussion points of the day, and provide a take-home message card for children, including the following three messages:
+There are three take-home messages for you:
+* Your data helps AI learn and suggest things based on what it has learned.
+* AI can assist with decisions, but may not understand your values. Use your own judgement too.
+* The creators' diverse opinions can impact the suggestions AI provides
