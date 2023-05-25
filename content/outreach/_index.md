@@ -98,3 +98,41 @@ There are three take-home messages for you:
 * Your data helps AI learn and suggest things based on what it has learned.
 * AI can assist with decisions, but may not understand your values. Use your own judgement too.
 * The creators' diverse opinions can impact the suggestions AI provides
+
+
+# Week 3: Your own AI platform (1)
+
+## Expected learning outcomes for us:
+* Understand how students perceive ethical issues associated with AI systems.
+* Assist students in developing awareness of ethical issues and understanding the importance of reducing such issues through the consideration of AI system design. 
+* Support students in creating their own AI platform with a user-centred method, i.e. begin with the user’s story.
+
+
+## Expected learning outcomes for children:
+* Understanding and analysing the ethical issues associated with AI systems (system bias, and chamber effects).
+* Analyse, evaluate and enhance the design of the recommendation system(FamilyFun).
+* Create an AI platform from analysing users’ needs.
+
+## Activity Planning
+
+* Warm-up (Verbal discussions / Whole class: ~10 min)
+
+  Can anyone please recall what we did last week?
+
+* Help AI for these troubles! (Whole class: ~10 min)
+
+  Children learn about two cases where users complain about filter bubbles and gender bias. Children share their feelings about these phenomena and potential methods for AI platforms to address these problems.
+
+* AI platform/app design (Group + Whole class: ~60 min)
+
+  We have four sections, including: 1) creating a story for the users of your AI app; 2) identifying user preferences and dislikes for this AI app; 3) translating your stories into a paper-based design of your app; and finally; 4) discussing how your app can help with Liam's and Alice's problems.
+
+  Children first decide the sequence in which they would like to tackle these sections for the design. Then, they go through each section. In the end, children discuss in the whole class, present their AI platform/app, and give comments on the works of other groups.
+
+## Take home message
+In the end of the session, researchers summarise the key discussion points of the day, and provide a take-home message card for children, including the following three messages:
+There are three take-home messages for you:
+* Design often begins with a good user story and expected actions.
+* AI systems may not always be perfect for everyone, but designers should think ahead of diverse needs and values from different users.
+* The choice of data and algorithms used by the AI systems can make a big difference and need to be fair.
+
