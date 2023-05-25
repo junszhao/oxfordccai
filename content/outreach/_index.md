@@ -100,7 +100,7 @@ There are three take-home messages for you:
 * The creators' diverse opinions can impact the suggestions AI provides
 
 
-# Week 3: Your own AI platform (1)
+# Week 3: Your own AI platform! (1)
 
 ## Expected learning outcomes for us:
 * Understand how students perceive ethical issues associated with AI systems.
@@ -117,17 +117,17 @@ There are three take-home messages for you:
 
 * Warm-up (Verbal discussions / Whole class: ~10 min)
 
-  Can anyone please recall what we did last week?
+Can anyone please recall what we did last week?
 
 * Help AI for these troubles! (Whole class: ~10 min)
 
-  Children learn about two cases where users complain about filter bubbles and gender bias. Children share their feelings about these phenomena and potential methods for AI platforms to address these problems.
+Children learn about two cases where users complain about filter bubbles and gender bias. Children share their feelings about these phenomena and potential methods for AI platforms to address these problems.
 
 * AI platform/app design (Group + Whole class: ~60 min)
 
-  We have four sections, including: 1) creating a story for the users of your AI app; 2) identifying user preferences and dislikes for this AI app; 3) translating your stories into a paper-based design of your app; and finally; 4) discussing how your app can help with Liam's and Alice's problems.
+We have four sections, including: 1) creating a story for the users of your AI app; 2) identifying user preferences and dislikes for this AI app; 3) translating your stories into a paper-based design of your app; and finally; 4) discussing how your app can help with Liam's and Alice's problems.
 
-  Children first decide the sequence in which they would like to tackle these sections for the design. Then, they go through each section. In the end, children discuss in the whole class, present their AI platform/app, and give comments on the works of other groups.
+Children first decide the sequence in which they would like to tackle these sections for the design. Then, they go through each section. In the end, children discuss in the whole class, present their AI platform/app, and give comments on the works of other groups.
 
 ## Take home message
 In the end of the session, researchers summarise the key discussion points of the day, and provide a take-home message card for children, including the following three messages:
