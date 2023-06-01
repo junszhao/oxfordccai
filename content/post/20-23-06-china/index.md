@@ -1,5 +1,5 @@
 ---
-title: Before and after China’s new Data Laws: Privacy in Apps
+title: "Before and after China’s new Data Laws: Privacy in Apps"
 date: 2023-06-01
 image:
   focal_point: 'top'
