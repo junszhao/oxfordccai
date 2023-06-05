@@ -34,17 +34,17 @@ We publish our workshop format and material under creative commons license. You 
 * Know the three aspects of datafication, i.e. data collection (privacy), datafying (algorithm), and data inference (influence)
 
 ## Activity planning
-* Warm-up (Verbal discussions / Whole class: ~10 min)
+* Warm-up (Verbal discussions / Whole class: ~10 mins)
 
 Can anyone please tell me some good things you know that AI can help us? Or some not-so-good things we need to be careful about AI?
 
-* Introduce the drawing task (Small breakup groups: ~25 min)
+* Introduce the drawing task (Small breakup groups: ~25 mins)
 
 Children are provided with a bunch of [scenario cards]. 
 
 Each of them was provided with a piece of paper so that they can work as a group/pair, choose a scenario card, and imagine how AI may help them in these scenarios. 
 
-* Black-box Algorithm! (Whole class: ~40-50 min)
+* Black-box Algorithm! (Whole class: ~40-50 mins)
 
 We used [three scenarios] to guide children to discuss how AI uses different data to personalise recommendations and how feedback can affect AI results.
 
@@ -74,11 +74,11 @@ We also offer a game for children to further explore AI and algorithms. In this 
 * Analyse AI’s recommendation more critically.
 
 ## Activity planning
-* Warm-up (Verbal discussions / Whole class: ~10 min)
+* Warm-up (Verbal discussions / Whole class: ~10 mins)
 
 Can anyone please recall what we have experienced and learn from this family?
 
-* Different Values: Role-playing game (Group + Whole class: ~60 min)
+* Different Values: Role-playing game (Group + Whole class: ~60 mins)
 
 First, we introduce the roles and use value cards to lead the children to discuss people’s values. 
 
@@ -115,15 +115,15 @@ There are three take-home messages for you:
 
 ## Activity Planning
 
-* Warm-up (Verbal discussions / Whole class: ~10 min)
+* Warm-up (Verbal discussions / Whole class: ~10 mins)
 
 Can anyone please recall what we did last week?
 
-* Help AI for these troubles! (Whole class: ~10 min)
+* Help AI for these troubles! (Whole class: ~10 mins)
 
 Children learn about two cases where users complain about filter bubbles and gender bias. Children share their feelings about these phenomena and potential methods for AI platforms to address these problems.
 
-* AI platform/app design (Group + Whole class: ~60 min)
+* AI platform/app design (Group + Whole class: ~60 mins)
 
 We have four sections, including: 1) creating a story for the users of your AI app; 2) identifying user preferences and dislikes for this AI app; 3) translating your stories into a paper-based design of your app; and finally; 4) discussing how your app can help with Liam's and Alice's problems.
 
