@@ -128,7 +128,7 @@ In the end of the session, researchers summarise the key discussion points of th
 
 * AI platform/app design (Group + Whole class: ~60 mins)
 
-  We have four sections, including: 1) [creating a story for the users of your AI app](https://drive.google.com/file/d/1HWnBy8v92eaS3Ge_N0kngMgR_fdJEGYJ/view?usp=drive_link); 2) [identifying user preferences and dislikes for this AI app](https://drive.google.com/file/d/1FvQtnRUzgEK7wYx8oI9HdrS8Bu4DC3vN/view?usp=drive_link); 3) [translating your stories into a paper-based design](https://drive.google.com/file/d/19qBfUbKdA46FaxqUcpiDFg9N78ytNkML/view?usp=drive_link) of your app; and finally; 4) [discussing how your app can help with Liam's and Alice's problems](https://drive.google.com/file/d/1R7P-qKLy2hlcOV7zmTSAZZMG1sClvnBW/view?usp=drive_link).
+  We have four sections, including: 1) [creating a story for the users of your AI app](https://drive.google.com/file/d/1HWnBy8v92eaS3Ge_N0kngMgR_fdJEGYJ/view?usp=drive_link); 2) [identifying user preferences and dislikes for this AI app](https://drive.google.com/file/d/1FvQtnRUzgEK7wYx8oI9HdrS8Bu4DC3vN/view?usp=drive_link); 3) [translating your stories into a paper-based design of your app](https://drive.google.com/file/d/19qBfUbKdA46FaxqUcpiDFg9N78ytNkML/view?usp=drive_link); and finally; 4) [discussing how your app can help with Liam's and Alice's problems](https://drive.google.com/file/d/1R7P-qKLy2hlcOV7zmTSAZZMG1sClvnBW/view?usp=drive_link).
 
   Children first decide the sequence in which they would like to tackle these sections for the design. Then, they go through each section. In the end, children discuss in the whole class, present their AI platform/app, and give comments on the works of other groups.
 
