@@ -119,19 +119,18 @@ In the end of the session, researchers summarise the key discussion points of th
 ## Activity Planning
 
 * Warm-up (Verbal discussions / Whole class: ~10 mins)
+ 
+Children recall the content of the activities and their feelings from last week.
 
-  Children recall the content of the activities and their feelings from last week.
+* Help AI for these challenges! (Whole class: ~10 mins)
 
-* Help AI for these troubles! (Whole class: ~10 mins)
-
-  Children learn about [two cases](https://drive.google.com/file/d/12AIhFTsQqOtm0YVrIKLZI6_ET82CMALw/view?usp=drive_link) where users complain about filter bubbles and gender bias. Children share their feelings about these phenomena and potential methods for AI platforms to address these problems.
+Children learn about [two cases](https://drive.google.com/file/d/12AIhFTsQqOtm0YVrIKLZI6_ET82CMALw/view?usp=drive_link) where users complain about filter bubbles and gender bias. Children share their feelings about these phenomena and potential methods for AI platforms to address these problems.
 
 * AI platform/app design (Group + Whole class: ~60 mins)
 
-  We have four sections, including: 1) [creating a story for the users of your AI app](https://drive.google.com/file/d/1HWnBy8v92eaS3Ge_N0kngMgR_fdJEGYJ/view?usp=drive_link); 2) [identifying user preferences and dislikes for this AI app](https://drive.google.com/file/d/1FvQtnRUzgEK7wYx8oI9HdrS8Bu4DC3vN/view?usp=drive_link); 3) [translating your stories into a paper-based design of your app](https://drive.google.com/file/d/19qBfUbKdA46FaxqUcpiDFg9N78ytNkML/view?usp=drive_link); and finally; 4) [discussing how your app can help with Liam's and Alice's problems](https://drive.google.com/file/d/1R7P-qKLy2hlcOV7zmTSAZZMG1sClvnBW/view?usp=drive_link).
+We have four sections, including: 1) [creating a story for the users of your AI app](https://drive.google.com/file/d/1HWnBy8v92eaS3Ge_N0kngMgR_fdJEGYJ/view?usp=drive_link); 2) [identifying user preferences and dislikes for this AI app](https://drive.google.com/file/d/1FvQtnRUzgEK7wYx8oI9HdrS8Bu4DC3vN/view?usp=drive_link); 3) [translating your stories into a paper-based design of your app](https://drive.google.com/file/d/19qBfUbKdA46FaxqUcpiDFg9N78ytNkML/view?usp=drive_link); and finally; 4) [discussing how your app can help with Liam's and Alice's problems](https://drive.google.com/file/d/1R7P-qKLy2hlcOV7zmTSAZZMG1sClvnBW/view?usp=drive_link).
 
-  Children first decide the sequence in which they would like to tackle these sections for the design. Then, they go through each section. In the end, children discuss in the whole class, present their AI platform/app, and give comments on the works of other groups.
-
+Children first decide the sequence in which they would like to tackle these sections for the design. Then, they go through each section. In the end, children discuss in the whole class, present their AI platform/app, and give comments on the works of other groups.
 
 
 ## Take home message
@@ -162,11 +161,11 @@ In the end of the session, researchers summarise the key discussion points of th
 
 * Warm-up (Verbal discussions / Whole class: ~10 mins)
 
- Children recall the content of the activities and their feelings from last week.
+Children recall the content of the activities and their feelings from last week.
 
 * Help AI for these challenges! (Group + Whole class: ~50 mins)
 
-  Children learn about [three cases](https://drive.google.com/file/d/1skB8z9kt5ASJZT8r90WUHqL-xpnwR89C/view?usp=drive_link) related to ethical challenges in AI-based recommendation systems: 1)‘unfair’ recommendations for different stakeholders; 2) integration with advertisements;3) consent and transparency.
+Children learn about [three cases](https://drive.google.com/file/d/1skB8z9kt5ASJZT8r90WUHqL-xpnwR89C/view?usp=drive_link) related to ethical challenges in AI-based recommendation systems: 1)‘unfair’ recommendations for different stakeholders; 2) integration with advertisements;3) consent and transparency.
 
  Children share their feelings about these challenges and design FamilyFun to address these challenges.
 
