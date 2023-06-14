@@ -175,6 +175,7 @@ We bring back the AI platform they designed in Week 3 and their drawings of "How
 
 
 * Feedback (Whole class: ~15 mins)
+
 We invite children to recall their experience in this club and share their feelings. We ask the children about their favourite and least favourite activities in this club, as well as the reasons behind their choices.
 
 
