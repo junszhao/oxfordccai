@@ -1,5 +1,5 @@
 ---
-title: "Don't make assumptions about me!: Understanding Children's Perception of Datafication Online"
+title: 'Don't make assumptions about me!: Understanding Children's Perception of Datafication Online'
 authors:
   - Jun Zhao
   - Ge Wang
@@ -21,7 +21,7 @@ publication_types: ['2']
 publication: 'Proceedings of the ACM on Human-Computer InteractionVolume 5Issue CSCW2'
 publication_short: 'CSCW2022'
 
-abstract: "Datafication, which is the process in which children’s actions online are pervasively recorded, tracked, aggregated, analysed, and exploited by online services in multiple ways that include behavioural engineering, and monetisation, is becoming increasing common in the online world today. However, we know little about how children feel about such practices and how they perceive datification. Through online interviews with 48 children aged 7-13 from UK schools, we examined how children perceive datafication practices, especially how such practices could make inference on them. We identified three key knowledge gaps in children’s perceptions, including their lack of recognition of who were involved in the data processing and how, data being transmitted across platforms, and their data ownership. Through situating our findings under a critical algorithmic literacy framework, our findings provided some immediate indications regarding how we could better support children in the datafied society through more transparency and autonomy-supportive designs, as well as the need for a fundamental shift of the current data governance structure."
+abstract: 'Datafication, which is the process in which children’s actions online are pervasively recorded, tracked, aggregated, analysed, and exploited by online services in multiple ways that include behavioural engineering, and monetisation, is becoming increasing common in the online world today. However, we know little about how children feel about such practices and how they perceive datification. Through online interviews with 48 children aged 7-13 from UK schools, we examined how children perceive datafication practices, especially how such practices could make inference on them. We identified three key knowledge gaps in children’s perceptions, including their lack of recognition of who were involved in the data processing and how, data being transmitted across platforms, and their data ownership. Through situating our findings under a critical algorithmic literacy framework, our findings provided some immediate indications regarding how we could better support children in the datafied society through more transparency and autonomy-supportive designs, as well as the need for a fundamental shift of the current data governance structure.'
 
 tags:
   - Source Themes
@@ -29,7 +29,8 @@ featured: false
 
 links:
 - name: Publisher Link
-url: https://doi.org/10.1145/3555144
+  url: 'https://doi.org/10.1145/3555144'
+  url_pdf: ''
 # url_pdf: https://ora.ox.ac.uk/objects/uuid:58f0c9eb-b0ad-404d-9741-70d553f011f2/download_file?file_format=application%2Fpdf&safe_filename=Wang_et_al_2022_dont_make_assumptions.pdf&type_of_work=Conference+item
 # url_code: ''
 # url_dataset: ''
