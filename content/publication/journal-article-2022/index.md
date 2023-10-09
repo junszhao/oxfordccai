@@ -1,5 +1,5 @@
 ---
-title: 'Don't make assumptions about me!: Understanding Children's Perception of Datafication Online'
+title: "Don't make assumptions about me!: Understanding Children's Perception of Datafication Online"
 authors:
   - Jun Zhao
   - Ge Wang
