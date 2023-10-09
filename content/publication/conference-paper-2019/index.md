@@ -36,7 +36,7 @@ featured: true
 links:
   - name: Publisher Link
     url: https://dl.acm.org/doi/10.1145/3290605.3300336
-url_pdf: https://ora.ox.ac.uk/catalog/uuid:9a4b026c-2ca0-4ebf-a869-0b3d03a7efe3/download_file?file_format=application%2Fpdf&safe_filename=CHI_Kids_Camera_Ready_New_Template_Updated_Dec.pdf
+url_pdf: https://ora.ox.ac.uk/objects/uuid:9a4b026c-2ca0-4ebf-a869-0b3d03a7efe3/files/mb25c566365dec3e8af862182dc8c5611
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
