@@ -6,7 +6,7 @@ authors:
   - Max Van Kleek
   - Nigel Shadbolt
 date: '2023-04-01T00:00:00Z'
-doi: '10.1145/3491102.3502057/1'
+doi: 'https://doi.org/10.1145/3544548.3580933'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-04-01T00:00:00Z'
@@ -31,8 +31,8 @@ tags:
 featured: true
 
 links:
-  # - name: Publisher Link
-  #   url: https://dl.acm.org/doi/10.1145/3491102.3502057
+  - name: Publisher Link
+    url: https://doi.org/10.1145/3544548.3580933
 url_pdf: https://ora.ox.ac.uk/objects/uuid:361767de-511d-4174-a548-97b1fc44d754/download_file?file_format=application%2Fpdf&safe_filename=Wang_et_al_2023_Treat_me_as.pdf&type_of_work=Conference+item
 # url_code: '#'
 # url_dataset: '#'
