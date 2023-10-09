@@ -6,7 +6,7 @@ authors:
   - Max Van Kleek
   - Nigel Shadbolt
 date: '2022-11-01T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1145/3555144'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-11-01T00:00:00Z'
@@ -29,8 +29,8 @@ featured: false
 
 links:
 - name: Publisher Link
-#     url: https://dl.acm.org/doi/10.1145/3476084
-url_pdf: https://www.tiffanygewang.com/publication/paper-placeholder-8/paper-placeholder-8.pdf
+url: [https://dl.acm.org/doi/10.1145/3476084](https://doi.org/10.1145/3555144)
+url_pdf: https://ora.ox.ac.uk/objects/uuid:58f0c9eb-b0ad-404d-9741-70d553f011f2/download_file?file_format=application%2Fpdf&safe_filename=Wang_et_al_2022_dont_make_assumptions.pdf&type_of_work=Conference+item
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
