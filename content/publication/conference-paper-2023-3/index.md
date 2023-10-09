@@ -18,7 +18,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: 'In *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies* Volume 7 Issue 2 Article No.: 53. Pp 1-24'
-publication_short: 'In *IMWUT*'
+publication_short: 'In *IMWUT2023*'
 
 abstract: "This paper critically examines the intersection of privacy concerns in children’s apps and the support required by developers to effectively address these concerns. Third-party libraries and software development kits (SDKs) are widely used in mobile app development, however, these libraries are commonly known for posing significant data privacy risks to users. Recent research has shown that app developers for children are particularly struggling with the lack of support in navigating the complex market of third-party SDKs. The support needed for developers to build privacy-friendly apps is largely understudied. Motivated by the needs of developers and an empirical analysis of 137 ‘expert-approved’ children’s apps, we designed DataAvalanche.io, a web-based tool to support app developers in navigating the privacy and legal implications associated with common third-party SDKs on the market. Through semi-structured interviews with 12 app developers for children, we demonstrate that app developers largely perceive the transparency supported by our tool positively. However, they raised several barriers, including the challenges of adopting privacy-friendly alternatives and the struggle to safeguard their own legal interests when facing the imbalance of power in the app market. We contribute to our understanding of the open challenges and barriers faced by app developers in creating privacy-friendly apps for children and provide critical future design and policy directions."
 
@@ -44,7 +44,7 @@ url_pdf: https://ora.ouls.ox.ac.uk/objects/uuid:ee63daea-d934-4274-a49e-0ba891ae
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: '12 Ways to Empower'
+  caption: 'Navigating the data avalanche'
   focal_point: ''
   preview_only: false
 
