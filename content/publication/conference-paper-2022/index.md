@@ -1,8 +1,8 @@
 ---
 title: "Informing Age-Appropriate AI: Examining Principles and Practices of AI for Children"
 authors:
-  - Jun Zhao
   - Ge Wang
+  - Jun Zhao
   - Max Van Kleek
   - Nigel Shadbolt
 date: '2022-04-01T00:00:00Z'
