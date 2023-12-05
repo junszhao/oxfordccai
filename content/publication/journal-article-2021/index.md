@@ -1,8 +1,8 @@
 ---
 title: 'Protection or Punishment? Relating the Design Space of Parental Control Apps and Perceptions about Them to Support Parenting for Online Safety'
 authors:
-  - Jun Zhao
   - Ge Wang
+  - Jun Zhao
   - Max Van Kleek
   - Nigel Shadbolt
 date: '2021-10-01T00:00:00Z'
