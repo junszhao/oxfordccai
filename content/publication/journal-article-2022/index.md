@@ -1,8 +1,8 @@
 ---
 title: "Don't make assumptions about me!: Understanding Children's Perception of Datafication Online"
 authors:
-  - Jun Zhao
   - Ge Wang
+  - Jun Zhao
   - Max Van Kleek
   - Nigel Shadbolt
 date: '2022-11-01T00:00:00Z'
