@@ -46,21 +46,20 @@ user_groups:
   - Researchers
 ---
 
-Oxford Child-Centred AI (Oxford CCAI) Design Lab assembles a series of research activities related to designing better AI for children. It is part of [Human-Centred Computing](http://hcc.cs.ox.ac.uk/) at the [Department of Computer Science](http://www.cs.ox.ac.uk/) at the University of Oxford. 
+Oxford Child-Centred AI (Oxford CCAI) Design Lab engages in a series of research activities aimed at designing better AI for children. It is part of [Human-Centred Computing](http://hcc.cs.ox.ac.uk/) research theme at the [Department of Computer Science](http://www.cs.ox.ac.uk/) at the University of Oxford. 
 
 Currently **OxfordCCAI** focuses on the following research themes:
 
 ## Creating a new paradigm of digital parenting in the AI of age 
-* What existing [technological supports are needed by parents and children](https://oxfordccai.netlify.app/publication/journal-article-2021/)
-* How a **co-learning** and **collaborative** approach could be applied for bettern digital parenting
-* see also [KOALA Hero](https://koala.web.ox.ac.uk)
+* What [technological supports are needed by parents and children](https://oxfordccai.netlify.app/publication/journal-article-2021/)?
+* How could a **co-learning** and **collaborative** approach be applied for better digital parenting?
+* This research is built on our previous project [KOALA: Kinds Online Anonymity and Lifelong Autonomy](https://koala.web.ox.ac.uk)
 
 ## Investigating age-appropriate AI algorithmic design patterns
-* What [design practices are applied in current AI systems for children](https://oxfordccai.netlify.app/publication/conference-paper-2022/)
-* How children [perceive dataficiation](https://www.tiffanygewang.com/publication/paper-placeholder-8/) in existing recommendation platforms (e.g. YouTube or Tiktok)
-* How to design **new and ethical** AI algorithmic systems, with more transparency, users' control and digital autonomy
-* see also [Oxford EWADA Project](http://ewada.ox.ac.uk)
-
+* What [design practices are applied in current AI systems for children](https://oxfordccai.netlify.app/publication/conference-paper-2022/)?
+* How do children [perceive dataficiation](https://www.tiffanygewang.com/publication/paper-placeholder-8/) in existing recommendation platforms (e.g. YouTube or Tiktok)?
+* How can **new and ethical** AI algorithmic systems be designed, with more transparency, users' control, and digital autonomy?
+* This research is being carried out as part of the [Oxford EWADA Project](http://ewada.ox.ac.uk; 2022-25), investigating new ways to enable data autonomy.
 ## Supporting developers to build age-appropriate AI applications
-* What [existing practices]() are adopted by developers for building privacy-friendly apps for children
-* What **tools** are needed to better support the developers
+* What [existing practices](https://oxfordccai.org/publication/conference-paper-2021/) are adopted by developers for building privacy-friendly apps for children?
+* What **tools** are needed to better [support the developers](https://oxfordccai.org/publication/conference-paper-2023-3/)?
