@@ -8,7 +8,7 @@ authors:
 ---
 
 
-We are really excited to announce an upcoming Special Issue on Child-Centered AI has been accepted by [IJHCS]().
+We are really excited to announce an upcoming Special Issue on Child-Centered AI has been accepted by [IJHCS](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies/about/call-for-papers#special-issue-on-child-centred-ai).
 
 The issue will be guest edited by
 * [Dr Jun Zhao](https://www.me-ai.org), University of Oxford
@@ -23,12 +23,12 @@ The offiical CFP will be published shortly while the CFP can be found below.
 
 
 Important dates
-* Date CFP published online: October 23, 2023 (will be published here)
-* Date of expected first submission (submission portal open): November 24, 2023
-* Final Date for submission: February 9, 2023
-* Date first review round completed: May 10, 2024 
-* Date revised manuscripts due: June 10, 2024 
-* Final Date for Acceptance: July 31, 2024 
+* Submission Open Date: December 18th, 2023
+* Final Manuscript Submission Deadline: March 8th, 2024
+* Date first review round completed: May 31, 2024 
+* Date revised manuscripts due: July 12, 2024 
+* Editorial Acceptance Deadline: September 30th, 2024
+
 
 
 
@@ -46,4 +46,4 @@ This Special Issue is committed to showcasing high-impact, original research tha
 * Evaluation metrics and methods
 * Child-machine interface models, frameworks, and reference points
 
-While we prioritize original submissions, we are open to significantly revised versions of papers presented at recent conferences or workshops, provided they contain at least 50% new material. Every submission will undergo rigorous peer review to meet the high standards of the IJHCS journal. For submission guidelines and manuscript preparation advice, please visit: https://www.elsevier.com/journals/international-journal-of-human-computer-studies/1071-5819/guide-for-authors. Should you wish to discuss potential contributions, feel free to contact the Special Issue editors at helloccai2023@gmail.com.
+While we prioritize original submissions, we are open to significantly revised versions of papers presented at recent conferences or workshops, provided they contain at least 50% new material. Every submission will undergo rigorous peer review to meet the high standards of the IJHCS journal. For submission guidelines and manuscript preparation advice, please visit: https://www.elsevier.com/journals/international-journal-of-human-computer-studies/1071-5819/guide-for-authors. Should you wish to discuss potential contributions, feel free to contact the Special Issue editors at jun dot zhao AT cs dot ac dot uk.
