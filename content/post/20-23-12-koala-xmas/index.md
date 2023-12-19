@@ -21,4 +21,4 @@ To assist parents and carers we offer a small deck of 'data cards' along with so
 
 Families can download the worksheets and data cards by clicking on the link or the images below. We would love to hear what you think.
 - [Data cards.pdf](Data-Cards.pdf)
-- [Workshee.pdf](koala-worksheets.pdf)
+- [Worksheet.pdf](koala-worksheets.pdf)
