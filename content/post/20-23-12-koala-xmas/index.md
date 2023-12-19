@@ -19,7 +19,7 @@ According to Dr Jun Zhao, Senior Researcher at the Department of Computer Scienc
 
 To assist parents and carers we offer a small deck of 'data cards' along with some engaging worksheets that you can use to talk to your children about data risks during the holiday period. The goal is to empower families with the knowledge needed to navigate the digital landscape responsibly and protect children's online experiences.
 
-Families can download the worksheets and data cards by clicking on the link or the images below. We would love to hear what you think.
+Families can download the worksheets and data cards by clicking on the links below. We would love to hear what you think.
 - [Data cards.pdf](Data-Cards.pdf)
 - [Worksheet.pdf](koala-worksheets.pdf)
 
