@@ -1,5 +1,5 @@
 ---
-title: "Special Issue on Child-Centered AI @ IJHCS"
+title: "KOALA Hero Data Cards"
 date: 2023-12-01
 image:
   focal_point: 'top'
@@ -26,4 +26,4 @@ According to Dr Jun Zhao, Senior Researcher at the Department of Computer Scienc
 
 Families can download the worksheets and data cards by clicking on the link or the images below. We would love to hear what you think.
 
-![Data cards](data_cards.jpg)
+<!-- ![Data cards](data_cards.jpg) -->
