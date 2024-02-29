@@ -1,6 +1,6 @@
 ---
-title: Two papers accetped at CHI'2023
-date: 2023-01-07
+title: Two papers accetped at CHI'2024
+date: 2024-01-30
 image:
   focal_point: 'top'
 authors:
