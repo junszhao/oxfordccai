@@ -187,6 +187,6 @@ In the end of the session, researchers summarise the key discussion points of th
 
 ## Final reports
 
-* [Report for the school](../../static/uploads/Report\ for\ school.pdf)
-* [Full report](../../static/uploads/Report\ for\ further\ research.pdf)
+* [Report for the school](Report_for_school.pdf)
+* [Full report](Report_for_further_research.pdf)
 
