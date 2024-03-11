@@ -20,14 +20,7 @@ publication_types: ['3']
 publication: ''
 publication_short: ''
 
-abstract: Artificial Intelligence (AI) systems have proliferated and impacted children’s daily lives. AI has the potential to enhance children’s learning, provide personalised experiences, and improve efficiency in various domains. However, apprehensions have emerged regarding the ethical challenges in AI systems, including data security, algorithmic biases, and their potential remediation on children's development and well-being. 
-
-These apprehensions underscore the pressing necessity of fostering children’s critical thinking and ethical awareness in the realm of AI. AI ethics education for children can empower them to think critically and make well-informed decisions when they navigate the landscape of AI applications.
-
-In the Spring of 2023, we conducted a four-week afterschool club with 6 children aged 9-11 in Whitchurch Primary School, Oxfordshire, UK on the theme of AI + Ethics, aiming to help them think more critically about AI. 
-
-This report provides an overview of our work, including the background of the project, the design methodology employed, an analysis of children's participation and feedback within the club, a reflection of children’s AI ethics awareness, the curriculum design and pedagogical strategies implemented, and a summary of the limitations encountered along with future plans. 
-
+abstract: Artificial Intelligence (AI) systems have proliferated and impacted children’s daily lives. AI has the potential to enhance children’s learning, provide personalised experiences, and improve efficiency in various domains. However, apprehensions have emerged regarding the ethical challenges in AI systems, including data security, algorithmic biases, and their potential remediation on children's development and well-being. These apprehensions underscore the pressing necessity of fostering children’s critical thinking and ethical awareness in the realm of AI. AI ethics education for children can empower them to think critically and make well-informed decisions when they navigate the landscape of AI applications. In the Spring of 2023, we conducted a four-week afterschool club with 6 children aged 9-11 in Whitchurch Primary School, Oxfordshire, UK on the theme of AI + Ethics, aiming to help them think more critically about AI. This report provides an overview of our work, including the background of the project, the design methodology employed, an analysis of children's participation and feedback within the club, a reflection of children’s AI ethics awareness, the curriculum design and pedagogical strategies implemented, and a summary of the limitations encountered along with future plans. 
 
 tags:
   - Source Themes
