@@ -185,4 +185,8 @@ In the end of the session, researchers summarise the key discussion points of th
 * AI platforms can have both good and bad impacts on users.
 * We need to understand AI’s limitations so we can use it critically.
 
+## Final reports
+
+* [Report for the school](../../static/uploads/Report\ for\ school.pdf)
+* [Full report](../../static/uploads/Report\ for\ further\ research.pdf)
 
