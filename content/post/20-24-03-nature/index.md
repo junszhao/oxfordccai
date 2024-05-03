@@ -23,7 +23,7 @@ We mapped the global landscape of existing ethics guidelines for AI (including t
 In response to these challenges, we recommended:
 
 - Increasing the involvement of key stakeholders, including parents and guardians, AI developers, and children themselves;
-Providing more direct support for industry designers and developers of AI systems, especially by involving them more in the implementation of ethical AI principles;
+- Providing more direct support for industry designers and developers of AI systems, especially by involving them more in the implementation of ethical AI principles;
 - Establishing legal and professional accountability mechanisms that are child-centred; and
 - Increasing multidisciplinary collaboration around a child-centred approach involving stakeholders in areas such as human-computer interaction, design, algorithms, policy guidance, data protection law, and education.
 
