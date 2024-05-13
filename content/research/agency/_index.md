@@ -1,5 +1,5 @@
 ---
-title: Research/Agency
+title: Design for children's agency
 
 # Listing view
 view: compact

@@ -1,5 +1,5 @@
 ---
-title: Research/Parenting
+title: Digital parenting
 
 # Listing view
 view: compact
