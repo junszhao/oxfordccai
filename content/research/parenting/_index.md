@@ -8,6 +8,8 @@ view: compact
 banner:
   caption: ''
   image: ''
+image:
+  focal_point: 'left'
 ---
 
 
