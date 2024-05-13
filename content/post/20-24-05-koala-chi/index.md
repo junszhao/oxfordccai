@@ -1,5 +1,5 @@
 ---
-title: The KOALA Hero Toolkit – An Innovative Approach to Digital Parenting
+title: The KOALA Hero Toolkit – An Innovative Approach to Digital Parenting Presented at CHI2024
 date: 2024-05-13
 image:
   focal_point: 'top'
