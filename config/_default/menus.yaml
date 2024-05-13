@@ -13,6 +13,18 @@ main:
   - name: Research
     url: research
     weight: 20
+  - name: Digital parenting
+    parent: research
+    url: research/parenting
+    weight: 10
+  - name: Agency by design
+    parent: research
+    url: research/agency
+    weight: 10
+  - name: AI ethics for children
+    parent: research
+    url: research/ethics
+    weight: 10
   - name: Blog
     url: blog
     weight: 30
