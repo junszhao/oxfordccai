@@ -24,5 +24,5 @@ Currently **OxfordCCAI** focuses on further developing and evaluating our [KOALA
 We also work together with our collaborators to analyse the impact of the current digital parenting approaches and how they affect families and children's digital well-being.
 
 See:
-# [KOALA Hero Toolkit: A New Approach to Inform Families of Mobile Datafication Risks](): the hybrid toolkit helping families co-develop an awareness of datafication risks associated with mobile apps
-# [KOALA](http://koala.web.ox.ac.uk): the earlier website describing the journey of KOALA
+* [KOALA Hero Toolkit: A New Approach to Inform Families of Mobile Datafication Risks](): the hybrid toolkit helping families co-develop an awareness of datafication risks associated with mobile apps
+* [KOALA](http://koala.web.ox.ac.uk): the earlier website describing the journey of KOALA

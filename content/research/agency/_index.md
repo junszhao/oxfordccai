@@ -20,6 +20,6 @@ Currently **OxfordCCAI** focuses on 1) defining agency for children in the digit
 
 
 See:
-# [12 Ways to Empower: Designing for Children's Digital Autonomy](https://oxfordccai.org/publication/conference-paper-2023-2/): a review of design patterns for children's autonomy
-# [Treat me as your friend, not a number in your database: Co-designing with Children to Cope with Datafication Online](https://oxfordccai.org/publication/conference-paper-2023/): a co-design activity with 50 children to create a first autonomy-fostering app
-# [CHAITok: A Proof-of-Concept System Supporting Children's Sense of Data Autonomy on Social Media](): a first Android app empowering children to exercise and develop data autonomy in an app grounded upon Tiktok, but with ethical design alteratives.
+* [12 Ways to Empower: Designing for Children's Digital Autonomy](https://oxfordccai.org/publication/conference-paper-2023-2/): a review of design patterns for children's autonomy
+* [Treat me as your friend, not a number in your database: Co-designing with Children to Cope with Datafication Online](https://oxfordccai.org/publication/conference-paper-2023/): a co-design activity with 50 children to create a first autonomy-fostering app
+* [CHAITok: A Proof-of-Concept System Supporting Children's Sense of Data Autonomy on Social Media](): a first Android app empowering children to exercise and develop data autonomy in an app grounded upon Tiktok, but with ethical design alteratives.
