@@ -48,9 +48,9 @@ user_groups:
 
 Oxford Child-Centred AI (Oxford CCAI) Design Lab engages in a series of research activities aimed at designing better AI for children. It is part of [Human-Centred Computing](http://hcc.cs.ox.ac.uk/) research theme at the [Department of Computer Science](http://www.cs.ox.ac.uk/) at the University of Oxford. 
 
-Currently **OxfordCCAI** focuses on the following research themes:
+Currently **OxfordCCAI** focuses on the following research themes, see [research](https://oxfordccai.org/).
 
-## Creating a new paradigm of digital parenting in the AI of age 
+<!-- ## Creating a new paradigm of digital parenting in the AI of age 
 * What [technological supports are needed by parents and children](https://oxfordccai.netlify.app/publication/journal-article-2021/)?
 * How could a **co-learning** and **collaborative** approach be applied for better digital parenting?
 * This research is built on our previous project [KOALA: Kinds Online Anonymity and Lifelong Autonomy](https://koala.web.ox.ac.uk)
@@ -63,3 +63,4 @@ Currently **OxfordCCAI** focuses on the following research themes:
 ## Supporting developers to build age-appropriate AI applications
 * What [existing practices](https://oxfordccai.org/publication/conference-paper-2021/) are adopted by developers for building privacy-friendly apps for children?
 * What **tools** are needed to better [support the developers](https://oxfordccai.org/publication/conference-paper-2023-3/)?
+ -->

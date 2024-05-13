@@ -19,7 +19,7 @@ main:
     weight: 10
   - name: Agency by design
     parent: Research
-    url: research/gency
+    url: research/agency
     weight: 10
   - name: AI ethics for children
     parent: Research
