@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night:
   font: minimal
-  font_size: s
+  font_size: main
 
 # SEO
 
@@ -107,5 +107,5 @@ extensions:
 # Citation style
 
 publications:
-  date_format: January 2006
+  date_format: January 2024
   citation_style: apa
