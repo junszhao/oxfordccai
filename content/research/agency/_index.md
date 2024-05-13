@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Research/Agency
 
 # Listing view
 view: compact
@@ -11,21 +11,10 @@ banner:
 ---
 
 
-Currently **OxfordCCAI** focuses on the following research themes:
+Children are often regarded not have the competence for agency or decision making. However, it does not mean that their best interests should not be respected, their voices are not included in the process of innovations.
 
-## Creating a new paradigm of digital parenting in the AI of age 
-* What [technological supports are needed by parents and children](https://oxfordccai.netlify.app/publication/journal-article-2021/)?
-* How could a **co-learning** and **collaborative** approach be applied for better digital parenting?
-* This research is built on our previous project [KOALA: Kinds Online Anonymity and Lifelong Autonomy](https://koala.web.ox.ac.uk)
-
-## Investigating age-appropriate AI algorithmic design patterns
-* What [design practices are applied in current AI systems for children](https://oxfordccai.netlify.app/publication/conference-paper-2022/)?
-* How do children [perceive dataficiation](https://www.tiffanygewang.com/publication/paper-placeholder-8/) in existing recommendation platforms (e.g. YouTube or Tiktok)?
-* How can **new and ethical** AI algorithmic systems be designed, with more transparency, users' control, and digital autonomy?
-* This research is being carried out as part of the [Oxford EWADA Project](http://ewada.ox.ac.uk; 2022-25), investigating new ways to enable data autonomy.
-## Supporting developers to build age-appropriate AI applications
-* What [existing practices](https://oxfordccai.org/publication/conference-paper-2021/) are adopted by developers for building privacy-friendly apps for children?
-* What **tools** are needed to better [support the developers](https://oxfordccai.org/publication/conference-paper-2023-3/)?
+Children are often protected or restricted in our technology designs, instead of being nurtured or equipped with agency to recognise manipulations, misinformation or behaviour engineers. This has the danger of dehumanising children and their rights. Put children, and all children, into the centre of ethics principles is foundational and critical. 
 
 
+Currently **OxfordCCAI** focuses on 1) defining agency for children in the digital context; 2) identifying children's sense of agency; and 3) investigating how to design and support children's agency development in the digital context. 
 
