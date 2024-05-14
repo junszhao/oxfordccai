@@ -30,7 +30,7 @@ See:
 * [KOALA](http://koala.web.ox.ac.uk): the earlier website describing the journey of KOALA
 
 
-== KOAKA Hero Toolkit ==
+## KOAKA Hero Toolkit
 
 This toolkit encompasses three key components:
 * A mobile tracker app, designed as a practical tool for families to navigate and control mobile datafication risks.
