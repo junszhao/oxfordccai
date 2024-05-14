@@ -19,7 +19,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: 'Nat Mach Intell 6, 265–270 (2024)'
-publication_short: 'CSCW2023'
+publication_short: 'Nat Mach Intell'
 
 abstract: 'AI systems are becoming increasingly pervasive within children’s devices, apps and services. The concern over a world where AI systems are deployed unchecked has raised burning questions about the impact, governance and accountability of these technologies. Although recent effort on AI ethics has converged into growing consensus on a set of high-level ethical AI principles, engagement with children’s issues is still limited, and even less is known about how to effectively apply them in practice for children. This Perspective first maps the current global landscape of existing ethics guidelines for AI and analyses their correlation with children. We then critically assess the strategies and recommendations proposed by current AI ethics initiatives, identifying the critical challenges in translating such ethical AI principles into practice for children. Finally, we tentatively map out several suggestions regarding embedding ethics into the development and governance of AI for children.'
 
