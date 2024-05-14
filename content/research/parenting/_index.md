@@ -28,3 +28,17 @@ We also work together with our collaborators to analyse the impact of the curren
 See:
 * [KOALA Hero Toolkit: A New Approach to Inform Families of Mobile Datafication Risks](): the hybrid toolkit helping families co-develop an awareness of datafication risks associated with mobile apps
 * [KOALA](http://koala.web.ox.ac.uk): the earlier website describing the journey of KOALA
+
+
+== KOAKA Hero Toolkit ==
+
+This toolkit encompasses three key components:
+* A mobile tracker app, designed as a practical tool for families to navigate and control mobile datafication risks.
+
+* A set of data cards, designed to facilitate discussion and support situated understanding.
+
+* A task sheet accompanied by worksheets, designed to facilitate interactive family engagement activities.
+
+The app is currently held at a private repository and is not yet publicly avaiable on the app store. Please reach out directly for a demo.
+
+The data cards and task sheets have been shared as part of Christmas 2023 celebration, see [here](https://oxfordccai.org/post/20-23-12-koala-xmas/).
