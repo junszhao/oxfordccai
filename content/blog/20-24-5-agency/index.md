@@ -59,7 +59,7 @@ These design mechanisms fall into FOUR groups, as shown in the figure below:
 - NUDGING: imposes subtle designs changes to alternate behaviours and reinforce positive ones
 
 <p align="center">
-  <img alt="Web3" src="./design.jpeg" class="img-responsive center-block" width="100%" caption="An overview of design mechanisms used for support children’s autonomy in existing HCI literature[11]">
+  <img alt="Web3" src="./design.jpeg" class="img-responsive center-block" width="150%" caption="An overview of design mechanisms used for support children’s autonomy in existing HCI literature[11]">
 </p>
 
 It was interesting to see that 1) the majority of the designs have focused on supporting children’s critical thinking, or cognitive autonomy, in their decision-making process by providing information, peer collaboration or comparison; 2) Nudege-based designs, such as scaffolding of choices and gamification, have been largely used to encourage behaviour change, while made little discussions of whether such behaviour changes are linked to any effect on children's motivation and rationale development; 3) finally, contextualisation techniques like Storytelling or Digital playground have often been used to foster children’s digital literacy development,  for example, by connecting their physical experiences with digital ones, which consequently support their ability of critical thinking.
@@ -86,7 +86,7 @@ Notably, while AGENCY was included as a key principle in the design framework, w
 
 
 | Children’s rights by design  principles  | <div style="width:290px">Design purposes</div>| <div style="width:290px">Design examples</div> | <div style="width:290px">Relationship with children’s autonomy development</div>|
-| -------- | ------- |
+| -------- | ------- | -------- | ------- |
 | **Equity and diversity**  | Be inclusive, treating everyone fairly and provide for diverse needs and circumstances, despite of sex, disability, socioeconomic background, ethnic or national origin, language or any other grounds (e.g., typical protected characteristics) | - Minimising content reinforcing prejudices about a particular group of children
 - Minimising cost and cultural barriers, and prioritise digital features that are inclusive, accessible and welcoming to all.
 - Including an easily accessible pathway for children and their parents or caregivers to object to automated decisions
