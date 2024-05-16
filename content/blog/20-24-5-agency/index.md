@@ -87,8 +87,7 @@ Notably, while AGENCY was included as a key principle in the design framework, w
 
 | <div style="width:120px">Children’s rights by design  principles</div>  | <div style="width:200px">Design purposes</div>| <div style="width:200px">Design examples</div> | <div style="width:200px">Relationship with children’s autonomy development</div>|
 | -------- | ------- | -------- | ------- |
-| **Equity and diversity**  | Be inclusive, treating everyone fairly and provide for diverse needs and circumstances, despite of sex, disability, socioeconomic background, ethnic or national origin, language or any other grounds (e.g., typical protected characteristics) | 
-Minimising content reinforcing prejudices about a particular group of children | A fundamental  design consideration  when designing for children’s autonomy and agency |
+| **Equity and diversity**  | Be inclusive, treating everyone fairly and provide for diverse needs and circumstances, despite of sex, disability, socioeconomic background, ethnic or national origin, language or any other grounds (e.g., typical protected characteristics) |Minimising content reinforcing prejudices about a particular group of children | A fundamental  design consideration  when designing for children’s autonomy and agency |
 |**Best interests**| Provide equal consideration to children’s wellbeing, growth, development and agency as to businesses’ interests |Digital providers often claim that they cannot identify the age of their users or distinguish children from adults, and as a result, build products that neglect children’s diverse needs and vulnerabilities | Children’s agency is part of their best interests |
 
 
