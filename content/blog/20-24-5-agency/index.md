@@ -85,14 +85,8 @@ For example, as shown in the summary table below:
 Notably, while AGENCY was included as a key principle in the design framework, we recognise its greater emphasis on minimising harms to children’s agency, rather than actively fostering children’s agency development. Children’s development of agency and autonomy is a complex process, involving not only cognitive, behavioural, and emotional aspects but also a process of motivation building that leads to a deeper sense of autonomy. Design support for all these facets thus demands more thorough consideration. 
 
 
-| <div style="width:120px">Children’s rights by design  principles</div>  | 
-<div style="width:200px">Design purposes</div>| 
-<div style="width:200px">Design examples</div> | <div style="width:200px">Relationship with children’s autonomy development</div>|
+| <div style="width:120px">Children’s rights by design  principles</div>  | <div style="width:200px">Design purposes</div>| <div style="width:200px">Design examples</div> | <div style="width:200px">Relationship with children’s autonomy development</div>|
 | -------- | ------- | -------- | ------- |
-| **Equity and diversity**  | 
-Be inclusive, treating everyone fairly and provide for diverse needs and circumstances, despite of sex, disability, socioeconomic background, ethnic or national origin, language or any other grounds (e.g., typical protected characteristics) | 
-- Minimising content reinforcing prejudices about a particular group of children
-- Minimising cost and cultural barriers, and prioritise digital features that are inclusive, accessible and welcoming to all.
-- Including an easily accessible pathway for children and their parents or caregivers to object to automated decisions|
-A fundamental  design consideration  when designing for children’s autonomy and agency|
+| **Equity and diversity**  | Be inclusive, treating everyone fairly and provide for diverse needs and circumstances, despite of sex, disability, socioeconomic background, ethnic or national origin, language or any other grounds (e.g., typical protected characteristics) | 
+- Minimising content reinforcing prejudices about a particular group of children - Minimising cost and cultural barriers, and prioritise digital features that are inclusive, accessible and welcoming to all. - Including an easily accessible pathway for children and their parents or caregivers to object to automated decisions| A fundamental  design consideration  when designing for children’s autonomy and agency|
 
