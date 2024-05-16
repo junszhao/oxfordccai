@@ -59,7 +59,21 @@ These design mechanisms fall into FOUR groups, as shown in the figure below:
 - NUDGING: imposes subtle designs changes to alternate behaviours and reinforce positive ones
 
 <p align="center">
-  <img alt="Web3" src="./design.jpeg" class="img-responsive center-block" width="80%" >
+  <img alt="Web3" src="./design.jpeg" class="img-responsive center-block" width="100%" caption="An overview of design mechanisms used for support children’s autonomy in existing HCI literature[11]">
 </p>
+
+It was interesting to see that 1) the majority of the designs have focused on supporting children’s critical thinking, or cognitive autonomy, in their decision-making process by providing information, peer collaboration or comparison; 2) Nudege-based designs, such as scaffolding of choices and gamification, have been largely used to encourage behaviour change, while made little discussions of whether such behaviour changes are linked to any effect on children's motivation and rationale development; 3) finally, contextualisation techniques like Storytelling or Digital playground have often been used to foster children’s digital literacy development,  for example, by connecting their physical experiences with digital ones, which consequently support their ability of critical thinking.
+
+This collection of design patterns offers a strong foundation for designing autonomy support for children in the digital context, with many showing promising results. However, the analysis above indicates that most approaches **primarily target at supporting children's cognitive and behavioural autonomy**. Yet, their impact on enhancing children's intrinsic motivation and self-regulation development remains somewhat uncertain.
+
+
+# Rights by Design
+
+Autonomy is core to children’s rights to agency and flourishment. While child-centred design has been extensively researched, designing for children’s rights has been less examined. 
+
+The Rights by Design framework [12](https://childrightsbydesign.digitalfuturescommission.org.uk) from the Digital Future Commissions presents 11 design principles to encourage innovators to build digital products that support children’s rights in the digital environment. Together, they provide a comprehensive guidance for innovators to carefully consider children’s diverse needs (equality), best interests, how to best include children’s voices, ensuring age-appropriateness of the technologies.
+
+While these principles were not specifically designed to support children’s autonomy development, we recognise that they provide a valuable framework for supporting autonomy development. 
+
 
 
