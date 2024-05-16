@@ -76,4 +76,19 @@ The Rights by Design framework [12](https://childrightsbydesign.digitalfuturesco
 While these principles were not specifically designed to support children’s autonomy development, we recognise that they provide a valuable framework for supporting autonomy development. 
 
 
+While these principles were not specifically designed to support children’s autonomy development, we recognise that they provide a valuable framework for supporting autonomy development. 
+
+For example, as shown in the summary table below:
+- Ensuring EQUITY, AGE APPROPRIATENESS, PRIVACY, and SECURITY of children would be essential when designing new ways to foster children’s autonomy development.
+- At the same time, considering children’s equal partnership in our design process (CONSULTATION) is aligned with our principle of respecting children’s rights and best interests. 
+
+Notably, while AGENCY was included as a key principle in the design framework, we recognise its greater emphasis on minimising harms to children’s agency, rather than actively fostering children’s agency development. Children’s development of agency and autonomy is a complex process, involving not only cognitive, behavioural, and emotional aspects but also a process of motivation building that leads to a deeper sense of autonomy. Design support for all these facets thus demands more thorough consideration. 
+
+
+| Children’s rights by design  principles  | <div style="width:290px">Design purposes</div>| <div style="width:290px">Design examples</div> | <div style="width:290px">Relationship with children’s autonomy development</div>|
+| -------- | ------- |
+| **Equity and diversity**  | Be inclusive, treating everyone fairly and provide for diverse needs and circumstances, despite of sex, disability, socioeconomic background, ethnic or national origin, language or any other grounds (e.g., typical protected characteristics) | - Minimising content reinforcing prejudices about a particular group of children
+- Minimising cost and cultural barriers, and prioritise digital features that are inclusive, accessible and welcoming to all.
+- Including an easily accessible pathway for children and their parents or caregivers to object to automated decisions
+|A fundamental  design consideration  when designing for children’s autonomy and agency|
 
