@@ -1,5 +1,5 @@
 ---
-title: Designing for children’s autonomy in the age of AI
+title: Designing for children’s autonomy in the age of AI (Part I)
 date: 2023-05-16
 image:
   focal_point: 'top'
