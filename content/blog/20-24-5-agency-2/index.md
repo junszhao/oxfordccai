@@ -7,7 +7,7 @@ authors:
   - Jun Zhao
 ---
 
-[Part I](https://oxfordccai.org/blog/20-24-5-agency/)
+# [Part I](https://oxfordccai.org/blog/20-24-5-agency/)
 
 # Exercises of fostering children’s data autonomy -- two case studies
 
