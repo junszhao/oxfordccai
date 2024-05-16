@@ -103,7 +103,7 @@ Notably, while AGENCY was included as a key principle in the design framework, w
 
 
 
-
+[To be continued in part II](https://oxfordccai.org/blog/20-24-5-agency-2/)
 
 
 
