@@ -1,5 +1,5 @@
 ---
-title: AI Ethics Club
+title: AI Ethics Club (Completed)
 date: 2023-06-01
 image:
   focal_point: 'top'
