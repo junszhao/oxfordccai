@@ -1,17 +1,14 @@
 ---
-title: Outreach
-
-# Listing view
-view: compact
-
-# Optional header image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+title: AI Ethics Club
+date: 2023-06-01
+image:
+  focal_point: 'top'
+authors:
+  - Jun Zhao
 ---
 
 
-<!-- Oxford CCAI is launching its first outreach activities -- an after school club to help children better talk and think about AI around them. 
+Oxford CCAI is launching its first outreach activities -- an after school club to help children better talk and think about AI around them. 
 
 The club runs over 4 weeks, and in each week, researchers from the lab will use a range of activities to help children develop a better ability to talk and think about AI technologies.
 
@@ -190,4 +187,3 @@ In the end of the session, researchers summarise the key discussion points of th
 * [Report for the school](Report_for_school.pdf)
 * [Full report](Report_for_further_research.pdf)
 
- -->
