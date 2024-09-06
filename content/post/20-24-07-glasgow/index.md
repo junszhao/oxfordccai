@@ -8,7 +8,7 @@ authors:
 ---
 
 
-We are excited that Dr Jun Zhao presented her research on digital parental control at the Annual International Congress on Infants Studies, a premier academic venue for infant studies. 
+We are excited that Dr Jun Zhao presented her research on digital parental control at the Bi-Annual [International Congress on Infants Studies](https://www.noldus.com/events/icis-2024), a premier academic venue for infant studies. 
 
 As part of a panel chaired by [Professor Denis Mareshcai](https://www.bbk.ac.uk/our-staff/profile/8007610/denis-mareschal) on "What is AI?. Introduction to issues surrounding AI and early Development", Dr Zhao contextualisd the discussion of how we can better support children and families from infancy and early childhood from a computer science perspective.
 
