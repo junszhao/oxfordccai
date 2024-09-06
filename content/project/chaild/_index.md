@@ -10,22 +10,19 @@ banner:
   image: ''
 ---
 
-Children are often regarded as not having the competence for agency or decision-making. However, this does not mean that their best interests should not be respected, nor that their voices should be excluded from the process of innovations.
-
-In today's technology designs, children are often protected or restricted, **instead of being nurtured or equipped with the agency** to recognise manipulations, misinformation, or behavior engineering. This approach risks dehumanising children and undermining their rights. Placing children, and all children, at the center of ethical principles is foundational and critical.
+Support by the first round of [UKRI’s new cross research council responsive mode (CRCRM) pilot scheme](https://www.ukri.org/what-we-do/browse-our-areas-of-investment-and-support/ukri-cross-research-council-responsive-mode-pilot-scheme/), CHAILD aims to address the critical issue of fostering children's digital autonomy in a world where childhood is increasingly intertwined with Artificial Intelligence (AI) systems, such as connected toys, apps, voice assistants, and online learning platforms. While these technologies offer opportunities to support children's development and learning, they also pose significant risks to their autonomy and agency, primarily through the widespread practices of datafication and manipulation of their digital experiences and behaviors.
 
 
 
-Currently **OxfordCCAI** focuses on 1) defining agency for children in the digital context; 2) identifying children's sense of agency; and 3) investigating how to design and support children's agency development in the digital context. 
+CHAILD will bring together a diverse team of computer scientists, learning scientists, social scientists, philosophers, and public policy partners to develop a comprehensive understanding of what algorithmic agency means for children in the digital age. The project will define effective methods for creating AI systems that actively foster and promote children’s agency while respecting their values and rights. To achieve this, the research team will work not only with children to understand their needs but also with a wide range of stakeholders, including parents, teachers, developers, and policymakers.
 
 
-These would not only transform the current perception of how children should be supported in their interactions with digital technologies but also provide the potential to empower their autonomy development and long-term digital well-being.
 
+Professor Shadbolt, the project PI, said: 
+> ‘Agency forms the basis of individuals’ ability to regulate their thoughts and actions, based on their beliefs about themselves. However, currently, children’s agency is particularly vulnerable to technological influence and datafication, designed to exploit their autonomy and shape their behaviours and decision-making. This project will co-design principles for creating agency-fostering child-centric AI systems, and produce breakthrough empirical evidence through evaluating prototype designs.’
 
-Over the last few years, we have not only produced encouraging research findings in pursuing this long-term vision but also learned invaluable lessons regarding how to engage children in effective design processes and produced the first release of our data autonomy-fostering app, CHAITok.
+Dr Zhao, the project co-lead, add:
+> We are excited about the upcoming CHAILD project, which will bring together education researchers and philosophers to explore a crucial challenge—what algorithmic agency means for children and how we can design for and measure agency.
 
-See:
-* [12 Ways to Empower: Designing for Children's Digital Autonomy](https://oxfordccai.org/publication/conference-paper-2023-2/): a review of design patterns for children's autonomy
-* [Treat me as your friend, not a number in your database: Co-designing with Children to Cope with Datafication Online](https://oxfordccai.org/publication/conference-paper-2023/): a co-design activity with 50 children to create a first autonomy-fostering app
-* [CHAITok: A Proof-of-Concept System Supporting Children's Sense of Data Autonomy on Social Media](https://oxfordccai.org/publication/conference-paper-2024-2/): a first Android app empowering children to exercise and develop data autonomy in an app grounded upon Tiktok, but with ethical design alteratives.
+Other project co-leads include [Professor Manolis Mavrikis from the UCL](https://profiles.ucl.ac.uk/48731-manolis-mavrikis), [Dr Carina Prunkl from Oxford Philosophy and Utrecht University](https://www.carinaprunkl.com), [Dr Wayne Holmes](https://profiles.ucl.ac.uk/48674-wayne-holmes), [Professor Kaska Porayska-Pomsta](https://profiles.ucl.ac.uk/48719-kaska-porayskapomsta), and [Baronese Beeban Kidron](https://beeban.com). 
 
