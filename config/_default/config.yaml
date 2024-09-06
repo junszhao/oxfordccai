@@ -41,6 +41,8 @@ permalinks:
   parenting: '/research/parenting/:slug/'
   ethics: '/research/ethics/:slug/'
   agency: '/research/agency/:slug/'
+  chaild: '/project/chaild/:slug/'
+  koala: '/project/koala/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
 disableAliases: true
