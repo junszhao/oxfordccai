@@ -1,5 +1,5 @@
 ---
-title: “Data-Driven Parenting: Robust Research and Policy Needed to Ensure that Parental Digital Monitoring Promotes a Good Digital Society”
+title: Data-Driven Parenting
 date: 2024-09-10
 image:
   focal_point: 'top'
