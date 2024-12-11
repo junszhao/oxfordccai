@@ -1,5 +1,5 @@
 ---
-title: CybAlliance Open Seminar
+title: Research seminar at Oxford Institute for Ethics in AI
 date: 2024-11-06
 image:
   focal_point: 'top'

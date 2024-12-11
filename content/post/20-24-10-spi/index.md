@@ -1,5 +1,5 @@
 ---
-title: CybAlliance Open Seminar
+title: Research seminar at Oxford SPI
 date: 2024-10-04
 image:
   focal_point: 'top'
