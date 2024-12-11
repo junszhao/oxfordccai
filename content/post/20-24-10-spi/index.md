@@ -17,10 +17,10 @@ As the department hosting the [Global Parenting Initiative](https://www.spi.ox.a
 
 Read more about the research discussed in this talk:
 
-- Wang et al. 2021 Protection or Punishment? Relating the Design Space of Parental Control Apps and Perceptions about Them to Support Parenting for Online Safety. CSCW 2021. https://doi.org/https://doi.org/10.1145/3476084
-- Zhao et al (2024).KOALA Hero Toolkit: A New Approach to Inform Families of Mobile Datafication Risks. In CHI24. https://doi/10.1145/3613904.3642283
-- Wang et al. Treat me as your friend, not a number in your database: Co-designing with Children to Cope with Datafication Online. In CHI’23. https://doi.org/https://doi.org/10.1145/3544548.3580933
-- Wang et al. . CHAITok: A Proof-of-Concept System Supporting Children's Sense of Data Autonomy on Social Media. In CHI24. https://doi.org/https://doi.org/10.1145/3613904.3642294
+- Wang et al (2021). Protection or Punishment? Relating the Design Space of Parental Control Apps and Perceptions about Them to Support Parenting for Online Safety. CSCW 2021. https://doi.org/https://doi.org/10.1145/3476084
+- Zhao et al (2024). KOALA Hero Toolkit: A New Approach to Inform Families of Mobile Datafication Risks. In CHI24. https://doi/10.1145/3613904.3642283
+- Wang et al (2023). Treat me as your friend, not a number in your database: Co-designing with Children to Cope with Datafication Online. In CHI’23. https://doi.org/https://doi.org/10.1145/3544548.3580933
+- Wang et al (2024). CHAITok: A Proof-of-Concept System Supporting Children's Sense of Data Autonomy on Social Media. In CHI24. https://doi.org/https://doi.org/10.1145/3613904.3642294
 
 - https://chaild.org
 - https://aiethicaldesign.org/

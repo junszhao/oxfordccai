@@ -18,8 +18,8 @@ Autonomy is fundamentally different from data privacy. While upholding children'
 
 Read more about this research:
 
-- Wang et al. Don't make assumptions about me!: Understanding Children's Perception of Datafication Online. CSCW2022: https://doi.org/https://doi.org/10.1145/3555144
-- Wang et al. . CHAITok: A Proof-of-Concept System Supporting Children's Sense of Data Autonomy on Social Media. In CHI24. https://doi.org/https://doi.org/10.1145/3613904.3642294
-- Zhao et al (2024).KOALA Hero Toolkit: A New Approach to Inform Families of Mobile Datafication Risks. In CHI24.https://doi/10.1145/3613904.3642283
+- Wang et al (2022). Don't make assumptions about me!: Understanding Children's Perception of Datafication Online. CSCW2022: https://doi.org/https://doi.org/10.1145/3555144
+- Wang et al (2024). CHAITok: A Proof-of-Concept System Supporting Children's Sense of Data Autonomy on Social Media. In CHI24. https://doi.org/https://doi.org/10.1145/3613904.3642294
+- Zhao et al (2024). KOALA Hero Toolkit: A New Approach to Inform Families of Mobile Datafication Risks. In CHI24.https://doi/10.1145/3613904.3642283
 
 
