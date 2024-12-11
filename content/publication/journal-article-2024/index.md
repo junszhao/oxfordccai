@@ -6,7 +6,7 @@ authors:
   - Max Van Kleek
   - Nigel Shadbolt
 date: '2024-03-10T00:00:00Z'
-doi: 'https://www.nature.com/articles/s42256-024-00805-x'
+doi: 'https://doi.org/10.1038/s42256-024-00805-x'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-03-20T00:00:00Z'
@@ -30,7 +30,7 @@ featured: false
 links:
 - name: Publisher Link
   url: 'https://www.nature.com/articles/s42256-024-00805-x'
-url_pdf: 'https://www.nature.com/articles/s42256-024-00805-x.pdf'
+url_pdf: 'https://ora.ox.ac.uk/objects/uuid:c5bfe304-6762-4c4f-bfc7-a26d74ff9f44/files/skp78gj32k'
 # url_pdf: https://ora.ox.ac.uk/objects/uuid:58f0c9eb-b0ad-404d-9741-70d553f011f2/download_file?file_format=application%2Fpdf&safe_filename=Wang_et_al_2022_dont_make_assumptions.pdf&type_of_work=Conference+item
 # url_code: ''
 # url_dataset: ''
