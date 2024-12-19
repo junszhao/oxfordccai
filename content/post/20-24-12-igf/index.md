@@ -1,6 +1,6 @@
 ---
 title: Roundtable at 5Rights IGF Panel
-date: 2024-12-118
+date: 2024-12-18
 image:
   focal_point: 'top'
 authors:
