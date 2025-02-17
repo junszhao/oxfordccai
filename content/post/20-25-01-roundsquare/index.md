@@ -1,11 +1,12 @@
 ---
-title: 
-date: 2024-01-10
+title: Panel at the Headteacher's Symposium
+date: 2025-01-10
 image:
   focal_point: 'top'
 authors:
   - oxfordccai
 ---
+
 
 
 2025 begins with a landmark event hosted by [Round Square](https://www.roundsquare.org/get-involved/conferences/), a partner non-profit organisation of Oxford CCAI. 
