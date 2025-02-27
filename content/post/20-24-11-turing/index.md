@@ -1,5 +1,5 @@
 ---
-title: Oxford CCAI Attends UNICEF RITEC launch
+title: Oxford CCAI Attends ATI's Children and AI Launch Event
 date: 2024-11-20
 image:
   focal_point: 'top'

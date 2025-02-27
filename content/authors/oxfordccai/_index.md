@@ -48,21 +48,26 @@ user_groups:
 
 Oxford Child-Centred AI (Oxford CCAI) Design Lab engages in a series of research activities aimed at designing better AI for children. It is part of [Human-Centred Computing](http://hcc.cs.ox.ac.uk/) research theme at the [Department of Computer Science](http://www.cs.ox.ac.uk/) at the University of Oxford. 
 
+We collaborate with a range of organisations both in the UK and internationally (including the 5Rights Foundation, Oxford Reuben College, FamStudio, Digital Futures for Children, Round Square, AIEOU, and many academic departments within and beyond Oxford) to examine the ways that AI impacts children’s living experiences and their digital rights, how we can design technologies fostering children’s rights and agency, by listening to their voices. 
+
+We aim to produce deep understandings to support the developments of policy and future AI technologies for children to ensure that the future of AI is child-centred, including their voices and active participation.
+
+
 Currently **OxfordCCAI** focuses on the following research themes, see [research](https://oxfordccai.org/).
 
-## Design for children's agency 
+## [Design for children's agency](https://oxfordccai.org/research/agency/) 
 * Define agency for children in the digital context
 * Identify children's sense of agency;
 * Investigate how to design and support children's agency development in the digital context
 
-## Define AI ethics principles for children
+## [Define AI ethics principles for children](https://oxfordccai.org/research/ethics/)
 * Why do we need a child-specific perspective on AI ethics principles?
 * Respect the developmental aspect of childhood
 * Revisit the role of parental support
 * Prioritise child-centred evaluations
 * Promote cross-disciplinary and cross-sectoral approaches
 
-## Creating a new paradigm of digital parenting in the AI of age 
+## [Creating a new paradigm of digital parenting in the AI of age](https://oxfordccai.org/research/parenting/) 
 * What [technological supports are needed by parents and children](https://oxfordccai.netlify.app/publication/journal-article-2021/)?
 * How could a **co-learning** and **collaborative** approach be applied for better digital parenting?
 * This research is built on our previous project [KOALA: Kinds Online Anonymity and Lifelong Autonomy](https://koala.web.ox.ac.uk)
@@ -73,6 +78,15 @@ Currently **OxfordCCAI** focuses on the following research themes, see [research
 * How do children [perceive dataficiation](https://www.tiffanygewang.com/publication/paper-placeholder-8/) in existing recommendation platforms (e.g. YouTube or Tiktok)?
 * How can **new and ethical** AI algorithmic systems be designed, with more transparency, users' control, and digital autonomy?
 * This research is being carried out as part of the [Oxford EWADA Project](http://ewada.ox.ac.uk; 2022-25), investigating new ways to enable data autonomy.
+
+
+In addition to child-centred research, we are passionate of disseminating our research through public and policy engagement work. Some of our recent work include:  
+* [Presenting at the IGF roundtable on “Regulating AI and Emerging Risks to Children’s Rights”](https://oxfordccai.org/post/20-24-12-igf/)
+* [Publishing policy paper on "What are the possibilities of a good digital society?" for the British Academy](https://oxfordccai.org/publication/policy-2024-09/)
+* [Producing podcast on digital parenting with ParentZone](https://oxfordccai.org/post/20-24-11-techshock/)
+* [Presenting at the roundtable event with Australian's Children's Commissioner](https://oxfordccai.org/post/20-24-11-roundtable/)
+
+If you would like to know more, email us at oxfordccai at gmail dot com.  
 
 <!-- ## Supporting developers to build age-appropriate AI applications
 * What [existing practices](https://oxfordccai.org/publication/conference-paper-2021/) are adopted by developers for building privacy-friendly apps for children?
