@@ -57,8 +57,6 @@ We collaborate with a range of organisations both in the UK and internationally 
 
 ## [Define AI ethics principles for children](https://oxfordccai.org/research/ethics/)
 * Why do we need a child-specific perspective on AI ethics principles?
-* Respect the developmental aspect of childhood
-* Revisit the role of parental support
 * Prioritise child-centred evaluations
 * Promote cross-disciplinary and cross-sectoral approaches
 
@@ -72,7 +70,6 @@ We collaborate with a range of organisations both in the UK and internationally 
 * What [design practices are applied in current AI systems for children](https://oxfordccai.netlify.app/publication/conference-paper-2022/)?
 * How do children [perceive dataficiation](https://www.tiffanygewang.com/publication/paper-placeholder-8/) in existing recommendation platforms (e.g. YouTube or Tiktok)?
 * How can **new and ethical** AI algorithmic systems be designed, with more transparency, users' control, and digital autonomy?
-* This research is being carried out as part of the [Oxford EWADA Project](http://ewada.ox.ac.uk; 2022-25), investigating new ways to enable data autonomy.
 
 
 In addition to child-centred research, we are passionate of disseminating our research through public and policy engagement work. Some of our recent work include:  
