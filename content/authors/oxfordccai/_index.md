@@ -48,12 +48,7 @@ user_groups:
 
 Oxford Child-Centred AI (Oxford CCAI) Design Lab engages in a series of research activities aimed at designing better AI for children. It is part of [Human-Centred Computing](http://hcc.cs.ox.ac.uk/) research theme at the [Department of Computer Science](http://www.cs.ox.ac.uk/) at the University of Oxford. 
 
-We collaborate with a range of organisations both in the UK and internationally (including the 5Rights Foundation, Oxford Reuben College, FamStudio, Digital Futures for Children, Round Square, AIEOU, and many academic departments within and beyond Oxford) to examine the ways that AI impacts children’s living experiences and their digital rights, how we can design technologies fostering children’s rights and agency, by listening to their voices. 
-
-We aim to produce deep understandings to support the developments of policy and future AI technologies for children to ensure that the future of AI is child-centred, including their voices and active participation.
-
-
-Currently **OxfordCCAI** focuses on the following research themes, see [research](https://oxfordccai.org/).
+We collaborate with a range of organisations both in the UK and internationally (including the [5Rights Foundation](http://5rightsfoundation.com), [Oxford Reuben College](http://generationai.world), [FamStudio](http://famstudio.net), [Digital Futures for Children](http://digital-futures-for-children.net), [AIEOU](http://aieou.web.ox.ac.uk), and many academic departments within and beyond Oxford) to examine the ways that AI impacts children’s living experiences and their digital rights, and how we can design technologies fostering children’s rights and agency, by listening to their voices. Currently **OxfordCCAI** focuses on the following research themes, see [research](https://oxfordccai.org/).
 
 ## [Design for children's agency](https://oxfordccai.org/research/agency/) 
 * Define agency for children in the digital context
