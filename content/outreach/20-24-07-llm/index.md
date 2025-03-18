@@ -52,10 +52,15 @@ The study consists of two parts for each participant:
 
 Both the survey and the tasks are designed to take no more than 30 minutes in total, making it easy to fit into a classroom schedule. The survey allows us to collect participants' *stated* preferences, while the tasks help us verify these preferences by seeing how they express themselves when completing the tasks.
 
+<p align="center">
+  <img alt="Web3" src="./process.png" class="img-responsive center-block" width="150%">
+  <em>Design caption="An overview of the genAI study process</em>
+</p>
+
 
 **We are happy to arrange introductory video calls or meetings with teachers before agreeing to participate, and we can tailor support to help schools teach about generative AI whenever possible**.
 
-The short online survey will ask participants to share:
+<!-- The short online survey will ask participants to share:
 1. How familiar they are with large language models (LLMs)
 2. Their own expectations for LLM characteristics, such as honesty, accuracy, friendliness, etc.
 3. Their preferences for LLM behaviour, such as being accurate, trustworthy, fair, fun, creative, etc.
@@ -78,7 +83,7 @@ Participants will be reminded at the start and throughout the study to <font col
 
 After completing each task, participants will <font color="green">rate the response they received from each LLM</font> and choose which model best aligns with their values (e.g., accuracy, trustworthiness, fairness, fun, creativity). This information will be compared with their stated preferences from the survey.
 
-Once all three tasks are completed, participants will have the opportunity to <font color="green">give open-ended feedback</font> on their experience with the models and the study.
+Once all three tasks are completed, participants will have the opportunity to <font color="green">give open-ended feedback</font> on their experience with the models and the study. -->
 
 
 
@@ -92,7 +97,7 @@ We’ve taken steps to ensure participants' safety. Only basic information like 
 All data will be stored securely at the University of Oxford. Any personal information will be deleted once it's no longer needed, and only the research team will have access, with data labeled by participant ID rather than name.
 
 
-# Data Protection
+## Data Protection
 
 The University of Oxford is the data controller for participants' personal data and will determine how this data is used in the research.
 
@@ -101,11 +106,11 @@ The University will process participants' personal data solely for the purpose o
 For more information about your rights regarding personal data, please visit[https://compliance.web.ox.ac.uk/individual-rights](https://compliance.web.ox.ac.uk/individual-rights).
 
 
-# Who has reviewed this research?
+## Who has reviewed this research?
 This research has received ethics approval from a subcommittee of the University of Oxford Central University Research Ethics Committee. 
 
 
-# What if there is a problem or something goes wrong?
+## What if there is a problem or something goes wrong?
 
 For any questions, please contact the researcher via (oxfordccai@cs.ox.ac.uk).  
 
