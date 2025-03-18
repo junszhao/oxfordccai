@@ -1,5 +1,5 @@
 ---
-title: Children and generative AI (JUST LAUNCHED)
+title: Children and genAI (JUST LAUNCHED)
 date: 2024-07-18
 image:
   focal_point: 'top'
@@ -10,7 +10,7 @@ authors:
 
 Oxford CCAI is launching a new research study on understanding children's perception of generative AI, between May and September 2025.
 
-## Your help is needed!
+## <font color="blue">Your help is needed!</font>
 
 A recent survey shows that **79% of children aged 13-17** are now *using* generative AI technologies, and **40% of children aged 7-12** are also *adopting* them. SnapchatMyAI is the most popular AI tool among kids aged 13-17, though ChatGPT is the most commonly used by those aged 16 and older. 
 
@@ -20,8 +20,11 @@ According to another report, children between the ages of 11 and 17 are primaril
 While these surveys shed light on why children are using these technologies, we don’t know much about how they experience them. Do children feel respected by AI tools? Do they believe the technology is fair, trustworthy, and enjoyable? Would they like more support to better understand the results they get from these tools, feel more respected, and have more opportunities to express their preferences about how these technologies respond to their needs and queries?
 
 > Do children feel respected by AI tools? 
+
 > Do they believe the technology is fair, trustworthy, and enjoyable? 
+
 > Would they like more support to better understand the results they get from these tools, feel more respected, and have more opportunities to express their preferences about how these technologies respond to their needs and queries?
+
 > --- Questions asked by the new OxfordCCAI research study (05-09.2025)
 
 
