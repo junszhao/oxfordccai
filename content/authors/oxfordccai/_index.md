@@ -78,7 +78,7 @@ In addition to child-centred research, we are passionate of disseminating our re
 * [Producing podcast on digital parenting with ParentZone](https://oxfordccai.org/post/20-24-11-techshock/)
 * [Presenting at the roundtable event with Australian's Children's Commissioner](https://oxfordccai.org/post/20-24-11-roundtable/)
 
-If you would like to know more, email us at oxfordccai at gmail dot com.  
+If you would like to know more, email us at oxfordccai at cs dot ox dot ac dot uk.
 
 <!-- ## Supporting developers to build age-appropriate AI applications
 * What [existing practices](https://oxfordccai.org/publication/conference-paper-2021/) are adopted by developers for building privacy-friendly apps for children?
