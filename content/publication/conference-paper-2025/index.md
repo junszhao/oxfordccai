@@ -1,5 +1,5 @@
 ---
-title: "FamiData Hub: A Speculative Design Exploration with Families on Smart Home Datafication."
+title: "FamiData Hub: A Speculative Design Exploration with Families on Smart Home Datafication"
 authors:
   - Ge Wang
   - Jun Zhao
