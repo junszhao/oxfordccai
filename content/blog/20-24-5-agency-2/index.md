@@ -78,7 +78,7 @@ Last but not least, autonomy fostering should align with children's rights to de
 
 # Conclusin remark
 
-We hope these seven princples of Designing for Children's Agency provide a strawberry for further exploration in this crucial area. We aim to further develop these principles through both empirical and theorectial investigations in the future. We'd love to hear what you think about these principles. Please reach out to us via @oxfordccai or **oxfordccai at cs dot ox dot ac dot uk**. 
+We hope these seven princples of Designing for Children's Agency provide a straw for further exploration in this crucial area. We aim to further develop these principles through both empirical and theorectial investigations in the future. We'd love to hear what you think about these principles. Please reach out to us via @oxfordccai or **oxfordccai at cs dot ox dot ac dot uk**. 
 
 
 
