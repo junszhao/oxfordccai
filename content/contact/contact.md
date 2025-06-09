@@ -54,5 +54,5 @@ design:
   columns: '1'
 ---
 
-For any further information about our research, please DM us on oxfordccai at cs dot ox dot ac dot uk or email the researchers in the team.
+For any further information about our research, please DM us on oxfordccai at cs dot ox dot ac dot uk, or email the researchers in the team.
 
