@@ -1,5 +1,5 @@
 ---
-title: Outreach
+title: Call for study participations
 
 # Listing view
 view: compact
