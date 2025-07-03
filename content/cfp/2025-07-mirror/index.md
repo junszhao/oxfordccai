@@ -30,4 +30,4 @@ Your child will get to see unique visualisations of their own digital footprint,
 
 Find out more about the study please visit the web site [Algorithmic Mirror](https://yuikondo.cargo.site/algorithmic-mirror-1)
 
-To the join the study and help your child understand better the digital world they navigate every day, [register your interest here](Click Here to Join this Research!).
+To the join the study and help your child understand better the digital world they navigate every day, [register your interest here](https://76t75872pua.typeform.com/to/BLRhPwCJ?typeform-source=yuikondo.cargo.site).

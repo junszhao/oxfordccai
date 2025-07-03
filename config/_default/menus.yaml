@@ -38,8 +38,8 @@ main:
   - name: Blog
     url: blog
     weight: 30
-  - name: Outreach
-    url: outreach
+  - name: Cfp
+    url: cfp
     weight: 30
   - name: Contact
     url: contact
