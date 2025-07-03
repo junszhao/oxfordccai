@@ -1,6 +1,6 @@
 ---
-title: Children and genAI (JUST LAUNCHED)
-date: 2024-07-18
+title: Children and genAI (Summer 2025)
+date: 2025-07-01
 image:
   focal_point: 'top'
 authors:
