@@ -23,7 +23,7 @@ Ever wonder what determines what your teenager sees on TikTok, Instagram, or Net
 Researchers at Oxford Computer Science have developed some special social media apps that can help children learn how their data is used by existing social media platforms, and how they can take better control of their data.  
 
 
-This summer, we're looking for families with teens aged 13-16 to join our research study. Children will try out two fun and easy-to-use apps — CHAITok and CHAIFlix — designed to help children better understand and manage their personal data on social media.
+This summer, we're looking for families with teens aged 13-16 to join our research study. Children will **try out two fun and easy-to-use apps — CHAITok and CHAIFlix** — designed to help children better understand and manage their personal data on social media.
 
 
 - Who: Families with teens ages 13-16
