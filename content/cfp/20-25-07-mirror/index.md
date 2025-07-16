@@ -27,6 +27,11 @@ Your child will get to see unique visualisations of their own digital footprint,
 - What: A research session exploring algorithmic categorisation
 - Why: To give teen insight into the invisible forces shaping young people's digital experiences
 
+<p align="center">
+  <img alt="Web3" src="./mirror.png" class="img-responsive center-block" width="150%">
+  <em>Design caption="Algorithmic Mirror"</em>
+</p>
+
 
 Find out more about the study please visit the web site [Algorithmic Mirror](https://yuikondo.cargo.site/algorithmic-mirror-1)
 

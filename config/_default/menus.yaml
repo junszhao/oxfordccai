@@ -38,7 +38,7 @@ main:
   - name: Blog
     url: blog
     weight: 30
-  - name: Cfp
+  - name: Call for Participation
     url: cfp
     weight: 30
   - name: Contact

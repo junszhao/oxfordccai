@@ -54,7 +54,7 @@ Both the survey and the tasks are designed to take no more than 30 minutes in to
 
 <p align="center">
   <img alt="Web3" src="./process.png" class="img-responsive center-block" width="150%">
-  <em>Design caption="An overview of the genAI study process</em>
+  <em>Design caption="An overview of the genAI study process"</em>
 </p>
 
 
