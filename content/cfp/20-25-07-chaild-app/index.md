@@ -1,5 +1,5 @@
 ---
-title: Help Your Child Learn more about how to control their social media data online
+title: Help Your Child Learn more about how to control their social media data online (Just launched)
 date: 2025-07-16
 image:
   focal_point: 'top'

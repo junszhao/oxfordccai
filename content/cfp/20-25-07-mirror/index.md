@@ -1,5 +1,5 @@
 ---
-title: Help Your Child See How Algorithms See Them (Just launched)
+title: Help Your Child See How Algorithms See Them (Spaces Limited)
 date: 2025-07-03
 image:
   focal_point: 'top'
