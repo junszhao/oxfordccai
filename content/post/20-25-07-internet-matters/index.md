@@ -1,5 +1,5 @@
 ---
-title: Dr Zhao provides expert input to the Internet Matters Report
+title: Dr. Zhao contributes expert input to the Internet Matters report
 date: 2025-07-19
 image:
   focal_point: 'top'
