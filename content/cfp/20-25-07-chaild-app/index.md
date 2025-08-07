@@ -15,8 +15,10 @@ Ever wonder what determines what your teenager sees on TikTok, Instagram, or Net
 
 
 <p align="center">
-  <img alt="Web3" src="./chaimedia.png" class="img-responsive center-block" width="150%">
-  <em>Design caption="Children, data, and their agency"</em>
+  <video alt="Web3" width="150%">
+    <source src="https://vimeo.com/1107388463" type="video/mp4">
+  <em>DChildren, data, and their agency</em>
+</video>
 </p>
 
 
