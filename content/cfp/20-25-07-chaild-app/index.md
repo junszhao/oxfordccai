@@ -21,7 +21,7 @@ Ever wonder what determines what your teenager sees on TikTok, Instagram, or Net
 </video>
 </p> -->
 
-<iframe src="https://player.vimeo.com/video/1107388463?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="150%" height="100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="Welcome to our child-centred Data Autonomy Workshop"></iframe>
+<iframe src="https://player.vimeo.com/video/1107388463?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="Welcome to our child-centred Data Autonomy Workshop"></iframe>
 
 
 Researchers at Oxford Computer Science have developed some special social media apps that can help children learn how their data is used by existing social media platforms, and how they can take better control of their data.  
@@ -36,3 +36,9 @@ This summer, we're looking for families with teens aged 13-16 to join our resear
 
 
 To the join the study and help your child understand better the digital world they navigate every day, [register your interest here](https://app.onlinesurveys.jisc.ac.uk/s/oxford/chai-media-sign-up-form).
+
+
+You can learn more about the tools we will use in the study with the short video here.
+
+<iframe src="https://player.vimeo.com/video/1108020329?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="Do you like watching TikTok or Netflix?"></iframe>
+
