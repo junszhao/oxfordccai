@@ -19,7 +19,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: 'Under review'
-publication_short: 'The Digital Autonomy Machine Experiment'
+publication_short: 'Under review'
 
 abstract: 'Digital autonomy is shaped by how individuals negotiate control, whether to govern their personal data themselves or entrust that authority to collective bodies or automated systems. As automated decision-making systems increasingly mediate personal data governance, questions arise about how individuals perceive and navigate these shifting power structures. While much of the debate has centred on technical infrastructures, ultimately, there has been limited understanding of how individuals value these systems and how they would prefer to entrust their data to these systems. The Digital Autonomy Machine Experiment contributes to this broader conversation by investigating how people dynamically recalibrate their autonomy preferences related to managing personal data. Our findings indicate that autonomy is not only internal but also can be influenced by the recalibration of an individual’s moral economy in ethically complex, socially significant digital contexts.'
 

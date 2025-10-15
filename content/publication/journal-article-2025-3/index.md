@@ -22,7 +22,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: 'Under review'
-publication_short: 'Special issue on Child-Centred AI'
+publication_short: 'Under review'
 
 # abstract: 'While the HCI community has a long history of designing for children, a disconnect persists between the design community, policy guidelines, and the actual designs implemented in practice. Emerging policies focus more on articulating the big picture of what technologies should do for children. Regulations, such as the EU AI Act and the UK Online Safety Act, emphasize child protection from harm resulting from the operation and use of digital technologies, including AI. These policies and regulations have yet to speak the language of designers and developers who are working on concrete and practical actions that they can take to account for childrens unique developmental needs and rights in AI system design. In the realms of policies and regulations, the notion of child-centered AI is often overlooked or oversimplified. In contrast, HCI experts work closely with children, using a child-centered approach and offering valuable insights into how AI can be effectively designed to serve childrens best interests, addressing their unique needs and vulnerabilities. This expertise presents a crucial, yet often underexplored, perspective on AI integration, going beyond what policy documents typically capture.'
 
