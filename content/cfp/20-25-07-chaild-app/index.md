@@ -40,5 +40,5 @@ To the join the study and help your child understand better the digital world th
 
 You can learn more about the tools we will use in the study with the short video here.
 
-<iframe src="https://player.vimeo.com/video/1108020329?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="Do you like watching TikTok or Netflix?"></iframe>
+<iframe src="https://player.vimeo.com/video/1108020329?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="360"  frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="Do you like watching TikTok or Netflix?"></iframe>
 
