@@ -23,10 +23,10 @@ CHAILD is one of the flagship cross-disciplinary research projects funded by the
 * Dr Leslye Dias Duran, who is our full-time Philosopher, joining us from Ruhr-Universität Bochum
 
 
-We are fortunatue to also have the continued support of [Dr Sarah Turner](https://profiles.ucl.ac.uk/89907-sarah-turner) from UCL, who has been recently awarded the prestigious British Academy Postdoctoral Fellowship to “[investigating young people's entanglements with generative AI and its implications for AI literacy](https://www.thebritishacademy.ac.uk/funding/schemes/postdoctoral-fellowships/past-awards/postdoctoral-fellowship-awards-2024-25/)". We have no doubt that Sarah will bring incredibly valuable addition to the project with her thoughtful approach to this crucial research programme.
+We are fortunatue to also have the continued support of [Dr Sarah Turner](https://profiles.ucl.ac.uk/89907-sarah-turner) from UCL, who has been recently awarded the prestigious British Academy Postdoctoral Fellowship to “[investigate young people's entanglements with generative AI and its implications for AI literacy](https://www.thebritishacademy.ac.uk/funding/schemes/postdoctoral-fellowships/past-awards/postdoctoral-fellowship-awards-2024-25/)". We have no doubt that Sarah will bring incredibly valuable addition to the project with her thoughtful approach to this crucial research programme.
 
 
-While setting up the team, we have made consistent progress with our research programme, including
+While setting up the team, we have made exciting progress with our research programme, including
 
 * Completed a literature view on designing agency for children
 * Designed, implemented and launched a generative AI study with children and young people
