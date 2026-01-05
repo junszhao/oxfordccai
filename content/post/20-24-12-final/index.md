@@ -41,7 +41,7 @@ The team published [six papers](https://oxfordccai.org/publication/) in top-tier
 * 20 January: Closing date for the first CHAILD RA post
 * 1 February: Official launch of CHAILD
 * End of February: CHAILD white paper launch event
-* 26 April – 1 May: CHI 2024 at Japan
+* 26 April – 1 May: CHI 2025 in Japan
 * 3-4 July: Oxford workshop on privacy in digital China
 
 
