@@ -20,6 +20,9 @@ main:
   - name: KOALA
     parent: Project
     url: project/koala
+  - name: Ethical
+    parent: Project
+    url: project/ethical
   - name: Research
     url: research
     weight: 20
