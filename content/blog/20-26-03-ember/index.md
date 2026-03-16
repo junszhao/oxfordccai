@@ -1,8 +1,8 @@
 ---
 title: Design for Ethical Machines for Children
 date: 2026-03-16
-image:
-  focal_point: 'top'
+# image:
+#   focal_point: 'top'
 authors:
   - Jun Zhao
 ---
