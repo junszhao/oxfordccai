@@ -8,7 +8,7 @@ authors:
 ---
 
 
-We would like to present a vision statement about our roadmap of desiging for ethical machines for children in 2026-2030.
+We would like to present our vision statement of desiging ethical machines for children from 2026 to 2030.
 
 # Why
 
