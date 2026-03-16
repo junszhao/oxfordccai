@@ -1,6 +1,6 @@
 ---
 title: Call for Industry Responsibilities in Ethical Design and Upholding Child Rights in the Context of AI
-date: 2023-05-16
+date: 2025-05-16
 image:
   focal_point: 'top'
 authors:
