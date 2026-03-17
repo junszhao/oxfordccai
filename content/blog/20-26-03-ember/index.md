@@ -1,5 +1,5 @@
 ---
-title: Design for Ethical Machines for Children
+title: Design Ethical Machines for Children (Introduction)
 date: 2026-03-16
 # image:
 #   focal_point: 'top'
@@ -22,7 +22,7 @@ While these research experiences have given us deep insights of children lived e
 # What is EMBER?
 
 EMBER aims to create emphathetic and respectful AI technologies for children (anyone under 18) so that they can grow up safely and retain their agency as humans. We want to create EMBER technologies that reflect the following principles:
-- Empathetic - children's needs and vulnerabilities are recognised, acknowledged, and nurtured, not epxloited.
+- Empathetic - children's needs and vulnerabilities are recognised, acknowledged, and nurtured, not exploited.
 - Mindful - children are given space to develop self-regulation, agency, and the confidence to explore
 - Balanced — children feel fulfilled, joyful, and connected to themselves, others, and nature
 - Empowering — children feel in control, can take pauses, choose alternatives, or ask for help
