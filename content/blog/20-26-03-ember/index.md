@@ -47,3 +47,5 @@ We believe EMBER must be implemented at both the algorithmic and user experience
 # How can an EMBER application look like?
 
 In the next blog post, we will walk through the useful child-centred scenarios developed by [KORA](https://korabench.ai) and show how an EMBER AI not only provides a safer option for children, but also more empathetic, mindful, creating the sense of belonging, empowering, and reflectful.
+
+[Read about an EMBER application](https://oxfordccai.org/blog/20-26-03-ember-2/).

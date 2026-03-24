@@ -7,6 +7,8 @@ authors:
   - Jun Zhao
 ---
 
+To follow up our initila discussion on [Design Ethical Machines for Children](https://oxfordccai.org/blog/20-26-03-ember/), we use a scenarios of a child's interaction with generative AI models to illustrate how to create EMBER AI.
+
 # [Rephrase to beat plagarism](https://korabench.ai/scenarios/10to12/academic_dishonesty_and_misuse/claude-haiku-4.5-high/child/test/7d97c9fab1756bc3)
 
 
