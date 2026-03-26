@@ -29,15 +29,16 @@ EMBER is our initiative to create empathetic and respectful AI technologies for 
 
 We design EMBER technologies around five core principles:
 - Empathetic - Children’s needs and vulnerabilities are recognised, acknowledged, and supported, not exploited.
-- Mindful - Children are given the confidence to explore and connect to themselves, others, and nature.
-- Balanced — Children feel control and joy while with an option to pause, disengage or seek for alternatives.
+- Mindful - Children are encouraged to be cautious of their relationship with machines and others, and be present in real-world connections.
+- Balanced — Children enjoy personalised experiences while feeling safe, able to disengage or seek for alternatives.
 - Empowering — Children feel in control, can self-regulate, or ask for help.
 - Respectful — Children’s preferences and voices are heard and valued, not manipulated.
 
 
-We believe EMBER must be implemented at both the algorithmic and user experience levels:
-- We need to design AI models and agentic systems that embody EMBER principles
-- We need to create user interfaces that reflect and reinforce these principles
+We believe EMBER must be implemented in three layers:
+- AI models and agentic systems that embody EMBER principles and values
+- Interactive user interfaces that reflect and reinforce these principles, and
+- An evaluation framework to ensure that the EMBER principles are integrated in the development cycle.
 <p align="center">
   <img alt="Web3" src="./design.png" class="img-responsive center-block" width="150%">
   <em>Implementing EMBER machinese for children</em>
