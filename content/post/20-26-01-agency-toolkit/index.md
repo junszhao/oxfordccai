@@ -1,6 +1,7 @@
 ---
 title: The CHAI Design by Agency toolkit
-date: 2026-01-27
+date: '2026-01-27'
+publishDate: '2026-01-27T00:00:00Z'
 image:
   focal_point: 'top'
 authors:

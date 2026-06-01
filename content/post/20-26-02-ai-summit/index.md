@@ -1,6 +1,7 @@
 ---
 title: A reflection of 2026 International AI Safety Report and Children
 date: '2026-02-14'
+publishDate: '2026-02-14T00:00:00Z'
 image:
   focal_point: 'top'
 authors:
