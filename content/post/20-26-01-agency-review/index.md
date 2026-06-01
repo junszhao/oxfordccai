@@ -1,6 +1,6 @@
 ---
 title: Agency lit review pre-print
-date: 2026-01-05
+date: January 05, 2026
 image:
   focal_point: 'top'
 authors:
