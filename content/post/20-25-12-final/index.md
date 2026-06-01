@@ -1,6 +1,6 @@
 ---
 title: The Year of 2025
-date: 2026-01-05
+date: '2026-01-05'
 image:
   focal_point: 'top'
 authors:
