@@ -1,7 +1,6 @@
 ---
 title: Special issue editorial published at IJHCS
-date: '2026-04-05'
-publishDate: '2026-01-05T00:00:00Z'
+publishDate: '2026-04-25'
 image:
   focal_point: 'top'
 authors:
