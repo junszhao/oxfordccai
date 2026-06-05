@@ -1,6 +1,5 @@
 ---
 title: OxfordCCAI/CHAILD at CHI2026
-publishDate: '2026-04-20'
 image:
   focal_point: 'top'
 authors:
