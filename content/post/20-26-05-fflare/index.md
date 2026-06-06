@@ -1,7 +1,6 @@
 ---
 title: The launch of Oxford Cambridge Forum for Flourishing, Learning and AI in Research and Education (OxBridge FFLARE)
-date: '2026-01-05'
-publishDate: '2026-01-05T00:00:00Z'
+date: '2026-05-10'
 image:
   focal_point: 'top'
 authors:
